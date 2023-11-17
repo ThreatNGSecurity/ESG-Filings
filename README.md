@@ -88,8 +88,5 @@ To contribute to this repository please create a pull request with any updates o
 Thanks to all our contributors!  
 <table>
   <tbody>
-    <tr>
-      <td align="center"><a href="GITHUBUSERNAME"><img src="GITHUBAVATAR" width="100px;" alt="GITHUBUSERNAME"/><br /><sub><b>GITHUBUSERNAME</b></sub></a><br /><a href="COMMITLINKHERE" title="Code"></a></td>
-    </tr>
    <tbody>
 <table>
