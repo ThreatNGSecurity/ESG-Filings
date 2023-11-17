@@ -4,7 +4,7 @@
 
 # Description
 ESG (Environmental, Social, Governance) is an emerging industry becoming increasingly popular in risk management. <br>
-This repository contains the links to each listed organization's ESG (Sustainability or CSR [Corporate Social Resposiblity]) filings and information. 
+This repository contains the links to each listed organization's ESG (Sustainability or CSR [Corporate Social Responsibility]) filings and information. 
 <br>
 <br>
 
