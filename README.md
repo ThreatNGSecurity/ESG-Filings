@@ -58,7 +58,7 @@ Connect with us on Social Media!
 
 # ThreatNG Security Open Source Repositories
 
-> This repository contains data that has been open sourced by [ThreatNG Security](https://threatngsecurity.com).  
+> This repository contains data that has been open-sourced by [ThreatNG Security](https://threatngsecurity.com).  
 > The data contained in these repositories can be used by anyone, in any capacity with proper attribution.
 
 ### Attribution & Citation  
@@ -78,7 +78,7 @@ Connect with us on Social Media!
 ## How to Contribute?
 Thank you for your interest in contributing to this repository!
 
-To contribute to this repository please create a pull request with any updates or additions.  
+To contribute to this repository, please create a pull request with any updates or additions.  
 *These will be reviewed and merged on a bi-weekly basis.*
 
 
