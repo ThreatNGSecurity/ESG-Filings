@@ -1,0 +1,3524 @@
+[
+	{
+		"Company": "Walmart",
+		"Domain": [
+			"https://walmart.com"
+		],
+		"ESG Link": "https://corporate.walmart.com/esgreport/"
+	},
+	{
+		"Company": "Amazon",
+		"Domain": [
+			"www.amazon.com"
+		],
+		"ESG Link": "https://sustainability.aboutamazon.com/"
+	},
+	{
+		"Company": "Apple",
+		"Domain": [
+			"www.apple.com"
+		],
+		"ESG Link": "https://investor.apple.com/esg/default.aspx"
+	},
+	{
+		"Company": "CVS Health",
+		"Domain": [
+			"https://www.cvshealth.com"
+		],
+		"ESG Link": "https://www.cvshealth.com/impact/esg-reports.html"
+	},
+	{
+		"Company": "UnitedHealth Group",
+		"Domain": [
+			"www.unitedhealthgroup.com"
+		],
+		"ESG Link": "https://sustainability.uhg.com/"
+	},
+	{
+		"Company": "Exxon Mobil",
+		"Domain": [
+			"www.exxonmobil.com"
+		],
+		"ESG Link": "https://investor.exxonmobil.com/esg"
+	},
+	{
+		"Company": "Berkshire Hathaway",
+		"Domain": [
+			"www.berkshirehathaway.com"
+		],
+		"ESG Link": "https://www.berkshirehathaway.com/sustainability/sustainability.html"
+	},
+	{
+		"Company": "Alphabet",
+		"Domain": [
+			"https://www.abc.xyz"
+		],
+		"ESG Link": "http://abc.xyz/investor/esg"
+	},
+	{
+		"Company": "McKesson",
+		"Domain": [
+			"www.mckesson.com"
+		],
+		"ESG Link": "https://www.mckesson.com/About-McKesson/Impact/"
+	},
+	{
+		"Company": "AmerisourceBergen",
+		"Domain": [
+			"www.amerisourcebergen.com"
+		],
+		"ESG Link": "https://investor.amerisourcebergen.com/governance/esg/default.aspx"
+	},
+	{
+		"Company": "Costco Wholesale",
+		"Domain": [
+			"www.costco.com"
+		],
+		"ESG Link": "https://www.costco.com/sustainability-governance-reporting.html"
+	},
+	{
+		"Company": "Cigna",
+		"Domain": [
+			"https://www.cigna.com"
+		],
+		"ESG Link": "https://www.cigna.com/about-us/corporate-responsibility/environmental-policy-statement"
+	},
+	{
+		"Company": "AT&T",
+		"Domain": [
+			"www.att.com"
+		],
+		"ESG Link": "https://sustainability.att.com/"
+	},
+	{
+		"Company": "Microsoft",
+		"Domain": [
+			"www.microsoft.com"
+		],
+		"ESG Link": "https://www.microsoft.com/en-us/corporate-responsibility/sustainability"
+	},
+	{
+		"Company": "Cardinal Health",
+		"Domain": [
+			"www.cardinalhealth.com"
+		],
+		"ESG Link": "https://www.cardinalhealth.com/en/about-us/environmental-social-governance.html"
+	},
+	{
+		"Company": "Chevron",
+		"Domain": [
+			"www.chevron.com"
+		],
+		"ESG Link": "https://www.chevron.com/sustainability"
+	},
+	{
+		"Company": "Home Depot",
+		"Domain": [
+			"www.homedepot.com"
+		],
+		"ESG Link": "https://ir.homedepot.com/esg-investors"
+	},
+	{
+		"Company": "Walgreens Boots Alliance",
+		"Domain": [
+			"www.walgreensbootsalliance.com"
+		],
+		"ESG Link": "https://www.walgreensbootsalliance.com/environmental-social-governance"
+	},
+	{
+		"Company": "Marathon Petroleum",
+		"Domain": [
+			"www.marathonpetroleum.com"
+		],
+		"ESG Link": "https://www.marathonpetroleum.com/Sustainability/"
+	},
+	{
+		"Company": "Elevance Health",
+		"Domain": [
+			"www.elevancehealth.com"
+		],
+		"ESG Link": "https://www.elevancehealth.com/who-we-are/corporate-responsibility/environmental-sustainability"
+	},
+	{
+		"Company": "Kroger",
+		"Domain": [
+			"www.thekrogerco.com","kroger.com"
+		],
+		"ESG Link": "https://www.thekrogerco.com/esgreport/"
+	},
+	{
+		"Company": "Ford Motor",
+		"Domain": [
+			"www.ford.com"
+		],
+		"ESG Link": "https://shareholder.ford.com/investors/esg/default.aspx"
+	},
+	{
+		"Company": "Verizon Communications",
+		"Domain": [
+			"www.verizon.com"
+		],
+		"ESG Link": "https://www.verizon.com/about/investors/esg-resources-hub"
+	},
+	{
+		"Company": "JPMorgan Chase",
+		"Domain": [
+			"www.jpmorganchase.com"
+		],
+		"ESG Link": "https://www.jpmorganchase.com/about/governance/esg"
+	},
+	{
+		"Company": "General Motors",
+		"Domain": [
+			"www.gm.com"
+		],
+		"ESG Link": "https://investor.gm.com/esg"
+	},
+	{
+		"Company": "Centene",
+		"Domain": [
+			"www.centene.com"
+		],
+		"ESG Link": "https://investors.centene.com/esg"
+	},
+	{
+		"Company": "Meta Platforms",
+		"Domain": [ "https://www.meta.com/",
+			"https://investor.fb.com"
+		],
+		"ESG Link": "https://investor.fb.com/esg-resources/default.aspx"
+	},
+	{
+		"Company": "Comcast",
+		"Domain": [
+		"https://www.xfinity.com/",
+			"www.comcastcorporation.com"
+		],
+		"ESG Link": "https://www.cmcsa.com/esg-reporting"
+	},
+	{
+		"Company": "Phillips 66",
+		"Domain": [
+			"www.phillips66.com"
+		],
+		"ESG Link": "https://www.phillips66.com/sustainability/esg-library/"
+	},
+	{
+		"Company": "Valero Energy",
+		"Domain": [
+			"www.valero.com"
+		],
+		"ESG Link": "https://investorvalero.com/esg/default.aspx"
+	},
+	{
+		"Company": "Dell Technologies",
+		"Domain": [
+		"https://www.dell.com",
+			"www.delltechnologies.com"
+		],
+		"ESG Link": "https://www.dell.com/en-us/dt/corporate/social-impact.htm"
+	},
+	{
+		"Company": "Target",
+		"Domain": [
+			"www.target.com"
+		],
+		"ESG Link": "https://corporate.target.com/sustainability-ESG"
+	},
+	{
+		"Company": "Fannie Mae",
+		"Domain": [
+			"www.fanniemae.com"
+		],
+		"ESG Link": "https://www.fanniemae.com/about-us/esg"
+	},
+	{
+		"Company": "United Parcel Service",
+		"Domain": [
+			"www.ups.com"
+		],
+		"ESG Link": "https://investors.ups.com/sustainability"
+	},
+	{
+		"Company": "Lowe's",
+		"Domain": [
+			"www.lowes.com"
+		],
+		"ESG Link": "https://corporate.lowes.com/our-responsibilities/corporate-responsibility-reports-policies"
+	},
+	{
+		"Company": "Bank of America",
+		"Domain": [
+			"www.bankofamerica.com"
+		],
+		"ESG Link": "https://about.bankofamerica.com/en/making-an-impact/esg-reports"
+	},
+	{
+		"Company": "Johnson & Johnson",
+		"Domain": [
+			"www.jnj.com"
+		],
+		"ESG Link": "https://www.jnj.com/esg-resources"
+	},
+	{
+		"Company": "Archer Daniels Midland",
+		"Domain": [
+			"www.adm.com"
+		],
+		"ESG Link": "https://investors.adm.com/sustainability/default.aspx"
+	},
+	{
+		"Company": "FedEx",
+		"Domain": [
+			"www.fedex.com"
+		],
+		"ESG Link": "https://investors.fedex.com/esg/default.aspx"
+	},
+	{
+		"Company": "Humana",
+		"Domain": [
+			"www.humana.com"
+		],
+		"ESG Link": "https://www.humana.com/about/impact"
+	},
+	{
+		"Company": "Wells Fargo",
+		"Domain": [
+			"www.wellsfargo.com"
+		],
+		"ESG Link": "https://www.wellsfargo.com/about/corporate-responsibility/"
+	},
+	{
+		"Company": "State Farm Insurance",
+		"Domain": [
+			"www.statefarm.com"
+		],
+		"ESG Link": "https://esg.statefarm.com/"
+	},
+	{
+		"Company": "Pfizer",
+		"Domain": [
+			"www.pfizer.com"
+		],
+		"ESG Link": "https://www.pfizer.com/about/responsibility/environmental-sustainability"
+	},
+	{
+		"Company": "Citigroup",
+		"Domain": [
+		"https://www.citi.com",
+			"www.citigroup.com"
+		],
+		"ESG Link": "https://www.citigroup.com/global/investors/esg-for-investors"
+	},
+	{
+		"Company": "PepsiCo",
+		"Domain": [
+		"https://www.pepsi.com",
+			"www.pepsico.com"
+		],
+		"ESG Link": "https://www.pepsico.com/our-impact/sustainability/esg-summary"
+	},
+	{
+		"Company": "Intel",
+		"Domain": [
+			"www.intel.com"
+		],
+		"ESG Link": "https://www.intc.com/esg"
+	},
+	{
+		"Company": "Procter & Gamble",
+		"Domain": [
+			"www.pg.com"
+		],
+		"ESG Link": "https://www.pginvestor.com/esg/esg-overview/"
+	},
+	{
+		"Company": "General Electric",
+		"Domain": [
+			"www.ge.com"
+		],
+		"ESG Link": "https://www.ge.com/sustainability"
+	},
+	{
+		"Company": "IBM",
+		"Domain": [
+			"https://www.ibm.com"
+		],
+		"ESG Link": "https://www.ibm.com/investor/governance"
+	},
+	{
+		"Company": "MetLife",
+		"Domain": [
+			"www.metlife.com"
+		],
+		"ESG Link": "https://www.metlife.com/sustainability/"
+	},
+	{
+		"Company": "Prudential Financial",
+		"Domain": [
+			"www.prudential.com"
+		],
+		"ESG Link": "https://www.prudentialesg.com/sustainability/default.aspx"
+	},
+	{
+		"Company": "Albertsons",
+		"Domain": [
+		"https://www.albertsons.com/",
+			"www.albertsonscompanies.com"
+		],
+		"ESG Link": "https://www.albertsonscompanies.com/our-impact/esg-reports-news/default.aspx"
+	},
+	{
+		"Company": "Walt Disney",
+		"Domain": [
+		"https://disney.com",
+			"www.thewaltdisneycompany.com"
+		],
+		"ESG Link": "https://impact.disney.com/esg-reporting/"
+	},
+	{
+		"Company": "Energy Transfer",
+		"Domain": [
+			"www.energytransfer.com"
+		],
+		"ESG Link": "https://www.energytransfer.com/corporate-responsibility/"
+	},
+	{
+		"Company": "Lockheed Martin",
+		"Domain": [
+			"www.lockheedmartin.com"
+		],
+		"ESG Link": "https://sustainability.lockheedmartin.com/sustainability/esg-portal/"
+	},
+	{
+		"Company": "Freddie Mac",
+		"Domain": [
+			"www.freddiemac.com"
+		],
+		"ESG Link": "https://www.freddiemac.com/about/esg"
+	},
+	{
+		"Company": "Goldman Sachs Group",
+		"Domain": [
+			"www.goldmansachs.com"
+		],
+		"ESG Link": "https://www.goldmansachs.com/investor-relations/corporate-governance/sustainability-reporting/"
+	},
+	{
+		"Company": "Raytheon Technologies",
+		"Domain": [
+			"www.rtx.com"
+		],
+		"ESG Link": "https://www.rtx.com/our-responsibility/our-esg-strategy"
+	},
+	{
+		"Company": "HP",
+		"Domain": [
+			"www.hp.com"
+		],
+		"ESG Link": "https://www.hp.com/us-en/sustainable-impact.html"
+	},
+	{
+		"Company": "Boeing",
+		"Domain": [
+			"www.boeing.com"
+		],
+		"ESG Link": "https://www.boeing.com/principles/sustainability/index.page"
+	},
+	{
+		"Company": "Morgan Stanley",
+		"Domain": [
+			"www.morganstanley.com"
+		],
+		"ESG Link": "https://www.morganstanley.com/about-us/corp-sustainability/"
+	},
+	{
+		"Company": "HCA Healthcare",
+		"Domain": [
+			"www.hcahealthcare.com"
+		],
+		"ESG Link": "https://www.hcahealthcareimpact.com/community/sustainability-initiatives/"
+	},
+	{
+		"Company": "AbbVie",
+		"Domain": [
+			"www.abbvie.com"
+		],
+		"ESG Link": "https://www.abbvie.com/sustainability/environmental-social-and-governance.html"
+	},
+	{
+		"Company": "Dow",
+		"Domain": [
+			"www.dow.com"
+		],
+		"ESG Link": "https://investors.dow.com/en/esg-resources/default.aspx"
+	},
+	{
+		"Company": "Tesla",
+		"Domain": [
+			"www.tesla.com"
+		],
+		"ESG Link": "https://www.tesla.com/impact"
+	},
+	{
+		"Company": "Allstate",
+		"Domain": [
+			"www.allstate.com"
+		],
+		"ESG Link": "https://www.allstatesustainability.com/"
+	},
+	{
+		"Company": "American International Group",
+		"Domain": [
+			"www.aig.com"
+		],
+		"ESG Link": "https://www.aig.com/home/about#"
+	},
+	{
+		"Company": "Best Buy",
+		"Domain": [
+		"https://bestbuy.com",
+			"www.investors.bestbuy.com"
+		],
+		"ESG Link": "https://corporate.bestbuy.com/sustainability/"
+	},
+	{
+		"Company": "Charter Communications",
+		"Domain": [
+			"www.charter.com"
+		],
+		"ESG Link": "https://corporate.charter.com/esg-report"
+	},
+	{
+		"Company": "Sysco",
+		"Domain": [
+			"www.sysco.com"
+		],
+		"ESG Link": "https://www.sysco.com/Sustainability/Corporate-Social-Responsibility.html"
+	},
+	{
+		"Company": "Merck",
+		"Domain": [
+			"https://www.merck.com"
+		],
+		"ESG Link": "https://www.merck.com/company-overview/esg/"
+	},
+	{
+		"Company": "New York Life Insurance",
+		"Domain": [
+			"www.newyorklife.com"
+		],
+		"ESG Link": "https://www.newyorklife.com/about/privacy/environmental-sustainability-policy-statement"
+	},
+	{
+		"Company": "Caterpillar",
+		"Domain": [
+			"www.caterpillar.com"
+		],
+		"ESG Link": "https://www.caterpillar.com/en/company/sustainability.html"
+	},
+	{
+		"Company": "Cisco Systems",
+		"Domain": [
+			"www.cisco.com"
+		],
+		"ESG Link": "https://www.cisco.com/c/m/en_us/about/csr/esg-hub.html"
+	},
+	{
+		"Company": "TJX",
+		"Domain": [
+			"www.tjx.com"
+		],
+		"ESG Link": "https://www.tjx.com/responsibility/"
+	},
+	{
+		"Company": "Publix Super Markets",
+		"Domain": [
+			"www.publix.com"
+		],
+		"ESG Link": "https://corporate.publix.com/newsroom/category/environmental-social-and-governance"
+	},
+	{
+		"Company": "ConocoPhillips",
+		"Domain": [
+			"www.conocophillips.com"
+		],
+		"ESG Link": "https://www.conocophillips.com/sustainability/"
+	},
+	{
+		"Company": "Liberty Mutual Insurance Group",
+		"Domain": [
+			"www.libertymutual.com"
+		],
+		"ESG Link": "https://www.libertymutualgroup.com/about-lm/corporate-information/sustainability/corporate-sustainability"
+	},
+	{
+		"Company": "Progressive",
+		"Domain": [
+			"www.progressive.com"
+		],
+		"ESG Link": "https://investors.progressive.com/sustainability-reports/default.aspx"
+	},
+	{
+		"Company": "Nationwide",
+		"Domain": [
+			"www.nationwide.com"
+		],
+		"ESG Link": "https://www.nationwide.com/cps/corporate-sustainability/index.html"
+	},
+	{
+		"Company": "Tyson Foods",
+		"Domain": [
+			"www.tysonfoods.com"
+		],
+		"ESG Link": "https://www.tysonsustainability.com/"
+	},
+	{
+		"Company": "Bristol-Myers Squibb",
+		"Domain": [
+			"www.bms.com"
+		],
+		"ESG Link": "https://www.bms.com/about-us/sustainability.html"
+	},
+	{
+		"Company": "Nike",
+		"Domain": [
+			"www.nike.com"
+		],
+		"ESG Link": "https://www.nike.com/sustainability"
+	},
+	{
+		"Company": "Deere",
+		"Domain": [
+			"www.deere.com"
+		],
+		"ESG Link": "https://www.deere.com/en/our-company/sustainability/"
+	},
+	{
+		"Company": "American Express",
+		"Domain": [
+			"www.americanexpress.com"
+		],
+		"ESG Link": "https://www.americanexpress.com/en-us/company/corporate-sustainability/ESG/"
+	},
+	{
+		"Company": "Abbott Laboratories",
+		"Domain": [
+			"www.abbott.com"
+		],
+		"ESG Link": "https://www.abbott.com/responsibility/sustainability.html"
+	},
+	{
+		"Company": "StoneX Group",
+		"Domain": [
+			"www.stonex.com"
+		],
+		"ESG Link": "https://ir.stonex.com/corporate-governance"
+	},
+	{
+		"Company": "Plains GP Holdings",
+		"Domain": [
+			"www.plains.com"
+		],
+		"ESG Link": "https://www.plains.com/sustainability"
+	},
+	{
+		"Company": "Enterprise Products Partners",
+		"Domain": [
+			"www.enterpriseproducts.com"
+		],
+		"ESG Link": "https://www.enterpriseproducts.com/safety-sustainability/environmental-social-governance/"
+	},
+	{
+		"Company": "TIAA",
+		"Domain": [
+			"www.tiaa.org"
+		],
+		"ESG Link": "https://www.tiaa.org/public/about-tiaa/how-we-help/corporate-governance-accountability"
+	},
+	{
+		"Company": "Oracle",
+		"Domain": [
+			"www.oracle.com"
+		],
+		"ESG Link": "https://www.oracle.com/sustainability/"
+	},
+	{
+		"Company": "Thermo Fisher Scientific",
+		"Domain": [
+			"https://www.thermofisher.com"
+		],
+		"ESG Link": "https://corporate.thermofisher.com/content/tfcorpsite/us/en/index/corporate-social-responsibility.html"
+	},
+	{
+		"Company": "Coca-Cola",
+		"Domain": [
+			"www.coca-colacompany.com"
+		],
+		"ESG Link": "https://www.coca-colacompany.com/sustainability"
+	},
+	{
+		"Company": "General Dynamics",
+		"Domain": [
+			"www.gd.com"
+		],
+		"ESG Link": "https://www.gdit.com/about-gdit/sustainability/"
+	},
+	{
+		"Company": "CHS",
+		"Domain": [
+			"www.chsinc.com"
+		],
+		"ESG Link": "https://www.chsinc.com/about-chs/sustainability"
+	},
+	{
+		"Company": "USAA",
+		"Domain": [
+			"www.usaa.com"
+		],
+		"ESG Link": "https://www.usaa.com/inet/wc/about-usaa-environmental-commitment"
+	},
+	{
+		"Company": "Northwestern Mutual",
+		"Domain": [
+			"www.northwesternmutual.com"
+		],
+		"ESG Link": "https://www.northwesternmutual.com/who-we-are/sustainability-report/"
+	},
+	{
+		"Company": "Nucor",
+		"Domain": [
+			"www.nucor.com"
+		],
+		"ESG Link": "https://nucor.com/esg"
+	},
+	{
+		"Company": "Exelon",
+		"Domain": [
+			"www.exeloncorp.com"
+		],
+		"ESG Link": "https://investors.exeloncorp.com/esg"
+	},
+	{
+		"Company": "Massachusetts Mutual Life Insurance",
+		"Domain": [
+			"www.massmutual.com"
+		],
+		"ESG Link": "https://www.massmutual.com/sustainability"
+	},
+	{
+		"Company": "Northrop Grumman",
+		"Domain": [
+			"www.northropgrumman.com"
+		],
+		"ESG Link": "https://www.northropgrumman.com/corporate-responsibility/esg-reports/"
+	},
+	{
+		"Company": "3M",
+		"Domain": [
+			"www.3m.com"
+		],
+		"ESG Link": "https://www.3m.com/3M/en_US/sustainability-us/"
+	},
+	{
+		"Company": "Travelers",
+		"Domain": [
+			"www.travelers.com"
+		],
+		"ESG Link": "https://sustainability.travelers.com/"
+	},
+	{
+		"Company": "Arrow Electronics",
+		"Domain": [
+			"www.arrow.com"
+		],
+		"ESG Link": "https://www.arrow.com/company/purpose/environmental-social-governance"
+	},
+	{
+		"Company": "Honeywell International",
+		"Domain": [
+			"www.honeywell.com"
+		],
+		"ESG Link": "https://www.honeywell.com/us/en/company/esg-report"
+	},
+	{
+		"Company": "Dollar General",
+		"Domain": [
+			"www.dollargeneral.com"
+		],
+		"ESG Link": "https://www.dollargeneral.com/about-us/corporate-social-responsibility"
+	},
+	{
+		"Company": "Qualcomm",
+		"Domain": [
+			"https://www.qualcomm.com"
+		],
+		"ESG Link": "https://www.qualcomm.com/company/corporate-responsibility"
+	},
+	{
+		"Company": "Capital One Financial",
+		"Domain": [
+			"www.capitalone.com"
+		],
+		"ESG Link": "https://www.capitalone.com/about/our-commitments/"
+	},
+	{
+		"Company": "TD Synnex",
+		"Domain": [
+			"www.tdsynnex.com"
+		],
+		"ESG Link": "https://www.tdsynnex.com/us/en/about-us/corporate-citizenship.html"
+	},
+	{
+		"Company": "Philip Morris International",
+		"Domain": [
+			"www.pmi.com"
+		],
+		"ESG Link": "https://www.pmi.com/sustainability"
+	},
+	{
+		"Company": "World Fuel Services",
+		"Domain": [
+			"www.wfscorp.com"
+		],
+		"ESG Link": "https://www.wfscorp.com/our-sustainability-approach/our-esg-strategy"
+	},
+	{
+		"Company": "Performance Food Group",
+		"Domain": [
+			"www.pfgc.com"
+		],
+		"ESG Link": "https://www.pfgc.com/Corporate-Responsibility"
+	},
+	{
+		"Company": "Delta Air Lines",
+		"Domain": [
+			"www.delta.com"
+		],
+		"ESG Link": "https://www.delta.com/us/en/about-delta/sustainability"
+	},
+	{
+		"Company": "American Airlines Group",
+		"Domain": [
+			"www.aa.com"
+		],
+		"ESG Link": "https://news.aa.com/esg/"
+	},
+	{
+		"Company": "Netflix",
+		"Domain": [
+			"www.netflix.com"
+		],
+		"ESG Link": "https://ir.netflix.net/governance/ESG/default.aspx"
+	},
+	{
+		"Company": "Paramount Global",
+		"Domain": [
+			"www.paramount.com"
+		],
+		"ESG Link": "https://www.paramount.com/sustainability"
+	},
+	{
+		"Company": "US Food Holdings",
+		"Domain": [
+			"https://usfoods.com"
+		],
+		"ESG Link": "https://www.usfoods.com/about-us-foods/corporate-social-responsibility.html"
+	},
+	{
+		"Company": "Danaher",
+		"Domain": [
+			"https://www.danaher.com"
+		],
+		"ESG Link": "https://www.danaher.com/sustainability"
+	},
+	{
+		"Company": "Jabil",
+		"Domain": [
+			"www.jabil.com"
+		],
+		"ESG Link": "https://investors.jabil.com/esg/sustainability-policy/default.aspx"
+	},
+	{
+		"Company": "Starbucks",
+		"Domain": [
+			"www.starbucks.com"
+		],
+		"ESG Link": "https://www.starbucks.com/responsibility/reporting-hub/"
+	},
+	{
+		"Company": "Mondelez International",
+		"Domain": [
+			"www.mondelezinternational.com"
+		],
+		"ESG Link": "https://www.mondelezinternational.com/Snacking-Made-Right/ESG-at-MDLZ"
+	},
+	{
+		"Company": "Eli Lilly",
+		"Domain": [
+			"https://www.lilly.com"
+		],
+		"ESG Link": "https://www.esg.lilly.com/"
+	},
+	{
+		"Company": "Hewlett Packard Enterprise",
+		"Domain": [
+			"https://www.hpe.com"
+		],
+		"ESG Link": "https://www.hpe.com/us/en/living-progress/report.html"
+	},
+	{
+		"Company": "D.R. Horton",
+		"Domain": [
+			"https://www.drhorton.com"
+		],
+		"ESG Link": "https://investor.drhorton.com/corporate-governance/esg-statement"
+	},
+	{
+		"Company": "Molina Healthcare",
+		"Domain": [
+			"https://www.molinahealthcare.com"
+		],
+		"ESG Link": "https://investors.molinahealthcare.com/corporate-governance/esg-reports-and-resources"
+	},
+	{
+		"Company": "CBRE Group",
+		"Domain": [
+			"https://www.cbre.com"
+		],
+		"ESG Link": "https://www.cbre.com/about-us/corporate-responsibility"
+	},
+	{
+		"Company": "Micron Technology",
+		"Domain": [
+			"https://www.micron.com"
+		],
+		"ESG Link": "https://www.micron.com/about/our-commitment/operating-thoughtfully/sustainability"
+	},
+	{
+		"Company": "Broadcom",
+		"Domain": [
+			"https://www.broadcom.com"
+		],
+		"ESG Link": "https://www.broadcom.com/company/citizenship"
+	},
+	{
+		"Company": "Gilead Sciences",
+		"Domain": [
+			"https://www.gilead.com"
+		],
+		"ESG Link": "https://www.gilead.com/purpose/esg"
+	},
+	{
+		"Company": "PBF Energy",
+		"Domain": [
+			"https://www.pbfenergy.com"
+		],
+		"ESG Link": "https://www.pbfenergy.com/esg/"
+	},
+	{
+		"Company": "Lennar",
+		"Domain": [
+			"https://www.lennar.com"
+		],
+		"ESG Link": "https://investors.lennar.com/corporate-governance/leadership"
+	},
+	{
+		"Company": "United Natural Foods",
+		"Domain": [
+			"https://www.unfi.com"
+		],
+		"ESG Link": "https://www.betterforall.unfi.com/"
+	},
+	{
+		"Company": "NRG Energy",
+		"Domain": [
+			"https://www.nrg.com"
+		],
+		"ESG Link": "https://www.nrg.com/sustainability/reporting.html"
+	},
+	{
+		"Company": "Nvidia",
+		"Domain": [
+			"https://www.nvidia.com"
+		],
+		"ESG Link": "https://www.nvidia.com/en-us/csr/"
+	},
+	{
+		"Company": "Occidental Petroleum",
+		"Domain": [
+			"https://www.oxy.com"
+		],
+		"ESG Link": "https://www.oxy.com/sustainability/"
+	},
+	{
+		"Company": "Salesforce",
+		"Domain": [
+			"https://www.salesforce.com"
+		],
+		"ESG Link": "https://www.salesforce.com/company/sustainability/"
+	},
+	{
+		"Company": "Dollar Tree",
+		"Domain": [
+			"https://www.dollartree.com"
+		],
+		"ESG Link": "https://corporate.dollartree.com/investors/esg"
+	},
+	{
+		"Company": "KKR",
+		"Domain": [
+			"https://www.kkr.com"
+		],
+		"ESG Link": "https://www.kkr.com/responsibility/citizenship"
+	},
+	{
+		"Company": "Kraft Heinz",
+		"Domain": [
+			"https://www.kraftheinzcompany.com"
+		],
+		"ESG Link": "https://www.kraftheinzcompany.com/esg/index.html"
+	},
+	{
+		"Company": "Amgen",
+		"Domain": [
+			"https://www.amgen.com"
+		],
+		"ESG Link": "https://www.amgen.com/responsibility"
+	},
+	{
+		"Company": "AutoNation",
+		"Domain": [
+			"https://www.autonation.com"
+		],
+		"ESG Link": "https://www.autonation.com/our-purpose/sustainability"
+	},
+	{
+		"Company": "Penske Automotive Group",
+		"Domain": [
+			"https://www.penskeautomotive.com"
+		],
+		"ESG Link": "https://www.penskeautomotive.com/esg/default.aspx"
+	},
+	{
+		"Company": "PayPal",
+		"Domain": [
+			"https://www.paypal.com"
+		],
+		"ESG Link": "https://investor.pypl.com/esg-strategy/default.aspx"
+	},
+	{
+		"Company": "Macy's",
+		"Domain": [
+			"https://www.macys.com/"
+		],
+		"ESG Link": "https://www.macysinc.com/purpose/sustainability/esg-resources-reports/default.aspx"
+	},
+	{
+		"Company": "Duke Energy",
+		"Domain": [
+			"https://www.duke-energy.com"
+		],
+		"ESG Link": "https://sustainablesolutions.duke-energy.com/about/esg/"
+	},
+	{
+		"Company": "United Airlines Holdings",
+		"Domain": [
+			"https://www.united.com"
+		],
+		"ESG Link": "https://www.united.com/ual/en/us/fly/company/global-citizenship/environment.html"
+	},
+	{
+		"Company": "Visa",
+		"Domain": [
+			"https://www.visa.com"
+		],
+		"ESG Link": "https://usa.visa.com/about-visa/esg.html"
+	},
+	{
+		"Company": "Rite Aid",
+		"Domain": [
+			"https://www.riteaid.com"
+		],
+		"ESG Link": "https://investors.riteaid.com/sustainability/default.aspx"
+	},
+	{
+		"Company": "Cummins",
+		"Domain": [
+			"https://www.cummins.com"
+		],
+		"ESG Link": "https://investor.cummins.com/board-esg"
+	},
+	{
+		"Company": "Paccar",
+		"Domain": [
+			"https://www.paccar.com"
+		],
+		"ESG Link": "https://www.paccar.com/about-us/environmental-social-and-governance/"
+	},
+	{
+		"Company": "McDonald's",
+		"Domain": [
+		"https://www.mcdonalds.com/",
+			"https://www.investor.mcdonalds.com"
+		],
+		"ESG Link": "https://corporate.mcdonalds.com/corpmcd/our-purpose-and-impact/impact-strategy-and-reporting/performance-reports.html"
+	},
+	{
+		"Company": "Southern",
+		"Domain": [
+			"https://www.southerncompany.com"
+		],
+		"ESG Link": "https://investor.southerncompany.com/esg/sustainability-esg/default.aspx"
+	},
+	{
+		"Company": "C.H. Robinson Worldwide",
+		"Domain": [
+			"https://www.chrobinson.com"
+		],
+		"ESG Link": "https://www.chrobinson.com/en-us/about-us/corporate-responsibility/esg/"
+	},
+	{
+		"Company": "Truist Financial",
+		"Domain": [
+			"https://www.truist.com"
+		],
+		"ESG Link": "https://ir.truist.com/corporate-social-responsibility"
+	},
+	{
+		"Company": "Applied Materials",
+		"Domain": [
+			"https://www.appliedmaterials.com"
+		],
+		"ESG Link": "https://www.appliedmaterials.com/us/en/corporate-responsibility.html"
+	},
+	{
+		"Company": "Freeport-McMoRan",
+		"Domain": [
+			"https://www.fcx.com"
+		],
+		"ESG Link": "https://www.fcx.com/sustainability"
+	},
+	{
+		"Company": "Lithia Motors",
+		"Domain": [
+		"https://www.lithia.com/",
+			"https://www.lithiainvestorrelations.com"
+		],
+		"ESG Link": "https://responsibility.lithiadriveway.com/"
+	},
+	{
+		"Company": "Blackstone",
+		"Domain": [
+			"https://www.blackstone.com"
+		],
+		"ESG Link": "https://www.blackstone.com/our-impact/an-integrated-approach-to-esg/"
+	},
+	{
+		"Company": "Hartford Financial Services Group",
+		"Domain": [
+			"https://www.thehartford.com"
+		],
+		"ESG Link": "https://www.thehartford.com/about-us/corporate-sustainability"
+	},
+	{
+		"Company": "Aflac",
+		"Domain": [
+			"https://www.aflac.com"
+		],
+		"ESG Link": "https://investors.aflac.com/Sustainability/default.aspx"
+	},
+	{
+		"Company": "Whirlpool",
+		"Domain": [
+			"https://www.whirlpoolcorp.com"
+		],
+		"ESG Link": "https://investors.whirlpoolcorp.com/why-invest/environmental-social-governance-overview/default.aspx"
+	},
+	{
+		"Company": "Union Pacific",
+		"Domain": [
+			"https://www.up.com"
+		],
+		"ESG Link": "https://www.up.com/aboutup/esg/index.htm"
+	},
+	{
+		"Company": "International Paper",
+		"Domain": [
+			"https://www.internationalpaper.com"
+		],
+		"ESG Link": "https://www.internationalpaper.com/sustainability"
+	},
+	{
+		"Company": "Altria Group",
+		"Domain": [
+			"https://www.altria.com"
+		],
+		"ESG Link": "https://www.altria.com/responsibility/"
+	},
+	{
+		"Company": "CDW",
+		"Domain": [
+			"https://www.cdw.com"
+		],
+		"ESG Link": "https://www.cdw.com/content/cdw/en/about/overview/esg.html.html"
+	},
+	{
+		"Company": "ManpowerGroup",
+		"Domain": [
+			"https://www.manpowergroup.com"
+		],
+		"ESG Link": "https://www.manpowergroup.co.uk/about-manpowergroup/environment-social-and-governance/"
+	},
+	{
+		"Company": "PG&E",
+		"Domain": [
+		"https://pge.com",
+			"https://www.pgecorp.com"
+		],
+		"ESG Link": "https://www.pgecorp.com/corp/responsibility-sustainability/corporate-responsibility-sustainability.page"
+	},
+	{
+		"Company": "Carrier Global",
+		"Domain": [
+		"https://carrier.com",
+			"https://www.corporate.carrier.com"
+		],
+		"ESG Link": "https://www.corporate.carrier.com/corporate-responsibility"
+	},
+	{
+		"Company": "Baker Hughes",
+		"Domain": [
+			"https://www.bakerhughes.com"
+		],
+		"ESG Link": "https://www.bakerhughes.com/company/corporate-responsibility"
+	},
+	{
+		"Company": "Cleveland-Cliffs",
+		"Domain": [
+			"https://www.clevelandcliffs.com"
+		],
+		"ESG Link": "https://www.clevelandcliffs.com/sustainability"
+	},
+	{
+		"Company": "United States Steel",
+		"Domain": [
+			"https://www.ussteel.com"
+		],
+		"ESG Link": "https://investors.ussteel.com/esg"
+	},
+	{
+		"Company": "Becton Dickinson",
+		"Domain": [
+			"https://www.bd.com"
+		],
+		"ESG Link": "https://investors.bd.com/esg/sustainability"
+	},
+	{
+		"Company": "CarMax",
+		"Domain": [
+			"www.carmax.com"
+		],
+		"ESG Link": "https://socialresponsibility.carmax.com/"
+	},
+	{
+		"Company": "Sherwin-Williams",
+		"Domain": [
+			"https://www.sherwin-williams.com"
+		],
+		"ESG Link": "https://investors.sherwin-williams.com/environmental-social-and-governance/default.aspx"
+	},
+	{
+		"Company": "Builders FirstSource",
+		"Domain": [
+			"https://www.bldr.com"
+		],
+		"ESG Link": "https://investors.bldr.com/ESG/"
+	},
+	{
+		"Company": "Marsh & McLennan",
+		"Domain": [
+			"https://www.marshmclennan.com"
+		],
+		"ESG Link": "https://www.marshmclennan.com/about/esg.html"
+	},
+	{
+		"Company": "PNC Financial Services Group",
+		"Domain": [
+			"https://www.pnc.com"
+		],
+		"ESG Link": "https://www.pnc.com/en/about-pnc/corporate-responsibility/corporate-social-responsibility.html"
+	},
+	{
+		"Company": "Lumen Technologies",
+		"Domain": [
+			"https://www.lumen.com"
+		],
+		"ESG Link": "https://ir.lumen.com/esg/default.aspx"
+	},
+	{
+		"Company": "Avnet",
+		"Domain": [
+			"https://www.avnet.com"
+		],
+		"ESG Link": "https://www.avnet.com/wps/portal/us/about-avnet/corporate-social-responsibility/overview/"
+	},
+	{
+		"Company": "Tenet Healthcare",
+		"Domain": [
+			"https://www.tenethealth.com"
+		],
+		"ESG Link": "https://www.tenethealth.com/about/environmental-sustainability"
+	},
+	{
+		"Company": "Kimberly-Clark",
+		"Domain": [
+			"https://www.kimberly-clark.com"
+		],
+		"ESG Link": "https://www.kimberly-clark.com/en-us/esg"
+	},
+	{
+		"Company": "Kohl's",
+		"Domain": [
+			"https://www.kohls.com"
+		],
+		"ESG Link": "https://investors.kohls.com/esg/overview/default.aspx"
+	},
+	{
+		"Company": "BlackRock",
+		"Domain": [
+			"https://www.blackrock.com"
+		],
+		"ESG Link": "https://www.blackrock.com/corporate/sustainability"
+	},
+	{
+		"Company": "Jones Lang LaSalle",
+		"Domain": [
+			"https://www.jll.com"
+		],
+		"ESG Link": "https://www.joneslanglasalle.com.cn/en/about-jll/our-sustainability-leadership"
+	},
+	{
+		"Company": "Lear",
+		"Domain": [
+			"https://www.lear.com"
+		],
+		"ESG Link": "https://www.lear.com/sustainability"
+	},
+	{
+		"Company": "Lincoln National",
+		"Domain": [
+			"https://www.lfg.com"
+		],
+		"ESG Link": "https://www.lincolnfinancial.com/public/aboutus/companyoverview/ourstrategy/corporateresponsibility"
+	},
+	{
+		"Company": "Charles Schwab",
+		"Domain": [
+		"https://www.schwab.com/",
+			"https://www.aboutschwab.com"
+		],
+		"ESG Link": "https://www.aboutschwab.com/environmental-stewardship"
+	},
+	{
+		"Company": "Ross Stores",
+		"Domain": [
+			"https://www.rossstores.com"
+		],
+		"ESG Link": "https://corp.rossstores.com/responsibility/"
+	},
+	{
+		"Company": "Mastercard",
+		"Domain": [
+			"https://www.mastercard.com"
+		],
+		"ESG Link": "https://www.mastercard.com/global/en/vision/corp-responsibility.html"
+	},
+	{
+		"Company": "Genuine Parts",
+		"Domain": [
+			"https://www.genpt.com"
+		],
+		"ESG Link": "https://www.genpt.com/sustainability"
+	},
+	{
+		"Company": "WestRock",
+		"Domain": [
+			"https://www.westrock.com"
+		],
+		"ESG Link": "https://www.westrock.com/sustainability"
+	},
+	{
+		"Company": "EOG Resources",
+		"Domain": [
+			"https://www.eogresources.com"
+		],
+		"ESG Link": "https://www.eogresources.com/sustainability/"
+	},
+	{
+		"Company": "Cognizant Technology Solutions",
+		"Domain": [
+			"https://www.cognizant.com"
+		],
+		"ESG Link": "https://www.cognizant.com/us/en/about-cognizant/esg"
+	},
+	{
+		"Company": "Moderna",
+		"Domain": [
+			"https://www.modernatx.com"
+		],
+		"ESG Link": "https://www.modernatx.com/responsibility/our-commitment"
+	},
+	{
+		"Company": "Steel Dynamics",
+		"Domain": [
+			"https://www.steeldynamics.com"
+		],
+		"ESG Link": "https://sustainability.steeldynamics.com/"
+	},
+	{
+		"Company": "HF Sinclair",
+		"Domain": [
+			"https://www.hfsinclair.com"
+		],
+		"ESG Link": "https://www.hfsinclair.com/sustainability/sustainability-report/default.aspx"
+	},
+	{
+		"Company": "Texas Instruments",
+		"Domain": [
+			"https://www.ti.com"
+		],
+		"ESG Link": "https://www.ti.com/about-ti/citizenship-community/overview/ESG.html"
+	},
+	{
+		"Company": "Emerson Electric",
+		"Domain": [
+			"https://www.emerson.com"
+		],
+		"ESG Link": "https://www.emerson.com/en-us/esg"
+	},
+	{
+		"Company": "WESCO International",
+		"Domain": [
+			"https://www.wesco.com"
+		],
+		"ESG Link": "https://www.wesco.com/us/en/our-company/environmental-social-and-governance.html"
+	},
+	{
+		"Company": "General Mills",
+		"Domain": [
+			"https://www.generalmills.com"
+		],
+		"ESG Link": "https://www.generalmills.com/how-we-make-it"
+	},
+	{
+		"Company": "Tenneco",
+		"Domain": [
+			"https://www.tenneco.com"
+		],
+		"ESG Link": "https://www.tenneco.com/sustainability"
+	},
+	{
+		"Company": "Waste Management",
+		"Domain": [
+			"https://www.wm.com"
+		],
+		"ESG Link": "https://sustainability.wm.com/esg-hub/governance/public-policy"
+	},
+	{
+		"Company": "Viatris",
+		"Domain": [
+			"https://www.viatris.com"
+		],
+		"ESG Link": "https://www.viatris.com/en/about-us/corporate-social-responsibility"
+	},
+	{
+		"Company": "DISH Network",
+		"Domain": [
+			"https://www.dish.com"
+		],
+		"ESG Link": "https://www.dish.com/dish-cares/"
+	},
+	{
+		"Company": "L3Harris Technologies",
+		"Domain": [
+			"https://www.l3harris.com"
+		],
+		"ESG Link": "https://www.l3harris.com/company/environmental-social-and-governance"
+	},
+	{
+		"Company": "DXC Technology",
+		"Domain": [
+		"https://dxc.com/",
+			"https://www.dxc.technology"
+		],
+		"ESG Link": "https://dxc.com/us/en/about-us/corporate-responsibility"
+	},
+	{
+		"Company": "Block",
+		"Domain": [
+			"https://www.block.xyz"
+		],
+		"ESG Link": "https://investors.block.xyz/governance/governance-documents/default.aspx"
+	},
+	{
+		"Company": "Goodyear Tire & Rubber",
+		"Domain": [
+			"https://www.goodyear.com"
+		],
+		"ESG Link": "https://corporate.goodyear.com/us/en/responsibility/esg.html"
+	},
+	{
+		"Company": "Uber Technologies",
+		"Domain": [
+			"https://www.uber.com"
+		],
+		"ESG Link": "https://www.uber.com/us/en/community/esg/"
+	},
+	{
+		"Company": "Colgate-Palmolive",
+		"Domain": [
+			"https://www.colgatepalmolive.com"
+		],
+		"ESG Link": "https://www.colgatepalmolive.com/en-us/sustainability"
+	},
+	{
+		"Company": "Stanley Black & Decker",
+		"Domain": [
+			"https://www.stanleyblackanddecker.com"
+		],
+		"ESG Link": "https://www.stanleyblackanddecker.com/impact"
+	},
+	{
+		"Company": "DuPont",
+		"Domain": [
+			"https://www.dupont.com"
+		],
+		"ESG Link": "https://www.dupont.com/about/sustainability.html"
+	},
+	{
+		"Company": "Stryker",
+		"Domain": [
+			"https://www.stryker.com"
+		],
+		"ESG Link": "https://www.stryker.com/us/en/about/corporate-responsibility/cr-hub.html"
+	},
+	{
+		"Company": "NextEra Energy",
+		"Domain": [
+			"https://www.nexteraenergy.com"
+		],
+		"ESG Link": "https://www.investor.nexteraenergy.com/sustainability/esg-resources"
+	},
+	{
+		"Company": "Targa Resources",
+		"Domain": [
+			"https://www.targaresources.com"
+		],
+		"ESG Link": "https://www.targaresources.com/sustainability"
+	},
+	{
+		"Company": "Western Digital",
+		"Domain": [
+			"https://www.westerndigital.com"
+		],
+		"ESG Link": "https://www.westerndigital.com/company/corporate-responsibility"
+	},
+	{
+		"Company": "PPG Industries",
+		"Domain": [
+			"https://www.ppg.com"
+		],
+		"ESG Link": "https://sustainability.ppg.com/"
+	},
+	{
+		"Company": "American Electric Power",
+		"Domain": [
+			"https://www.aep.com"
+		],
+		"ESG Link": "https://aepsustainability.com/performance/esg/"
+	},
+	{
+		"Company": "Gap",
+		"Domain": [
+			"https://www.gapinc.com"
+		],
+		"ESG Link": "https://www.gapinc.com/en-us/values/sustainability/esg-resources/"
+	},
+	{
+		"Company": "BJ's Wholesale Club",
+		"Domain": [
+			"https://www.bjs.com"
+		],
+		"ESG Link": "https://www.bjs.com/esg"
+	},
+	{
+		"Company": "Reinsurance Group of America",
+		"Domain": [
+			"https://www.rgare.com"
+		],
+		"ESG Link": "https://www.rgare.com/our-company/responsibility"
+	},
+	{
+		"Company": "Kinder Morgan",
+		"Domain": [
+			"https://www.kindermorgan.com"
+		],
+		"ESG Link": "https://www.kindermorgan.com/Safety-Environment/ESG"
+	},
+	{
+		"Company": "Oneok",
+		"Domain": [
+			"https://www.oneok.com"
+		],
+		"ESG Link": "https://www.oneok.com/sustainability"
+	},
+	{
+		"Company": "Expeditors Intl. of Washington",
+		"Domain": [
+			"https://www.expeditors.com"
+		],
+		"ESG Link": "https://www.expeditors.com/about-us/sustainability"
+	},
+	{
+		"Company": "Advanced Micro Devices",
+		"Domain": [
+			"https://www.amd.com"
+		],
+		"ESG Link": "https://www.amd.com/en/corporate/corporate-responsibility.html"
+	},
+	{
+		"Company": "Fiserv",
+		"Domain": [
+			"https://www.fiserv.com"
+		],
+		"ESG Link": "https://www.fiserv.com/en/about-fiserv/corporate-social-responsibility.html"
+	},
+	{
+		"Company": "Estee Lauder",
+		"Domain": [
+			"https://www.elcompanies.com"
+		],
+		"ESG Link": "https://www.elcompanies.com/en/our-commitments"
+	},
+	{
+		"Company": "Bank of New York Mellon",
+		"Domain": [
+			"https://www.bnymellon.com"
+		],
+		"ESG Link": "https://www.bnymellon.com/us/en/about-us/esg-and-responsible-investment.html"
+	},
+	{
+		"Company": "Laboratory Corp. of America",
+		"Domain": [
+			"https://www.labcorp.com"
+		],
+		"ESG Link": "https://www.labcorp.com/about/our-impact/esg"
+	},
+	{
+		"Company": "Regeneron Pharmaceuticals",
+		"Domain": [
+			"https://www.regeneron.com"
+		],
+		"ESG Link": "https://www.regeneron.com/responsibility"
+	},
+	{
+		"Company": "Land O'Lakes",
+		"Domain": [
+			"https://www.landolakesinc.com"
+		],
+		"ESG Link": "https://www.landolakesinc.com/Corporate-Responsibility"
+	},
+	{
+		"Company": "Cheniere Energy",
+		"Domain": [
+			"https://www.cheniere.com"
+		],
+		"ESG Link": "https://www.cheniere.com/our-responsibility"
+	},
+	{
+		"Company": "Southwest Airlines",
+		"Domain": [
+			"https://www.southwest.com"
+		],
+		"ESG Link": "https://www.southwest.com/citizenship/"
+	},
+	{
+		"Company": "Adobe",
+		"Domain": [
+			"https://www.adobe.com"
+		],
+		"ESG Link": "https://www.adobe.com/corporate-responsibility/sustainability.html"
+	},
+	{
+		"Company": "Synchrony Financial",
+		"Domain": [
+		"https://www.synchrony.com/",
+			"https://www.synchronyfinancial.com"
+		],
+		"ESG Link": "https://investors.synchrony.com/corporate-governance"
+	},
+	{
+		"Company": "Corteva",
+		"Domain": [
+			"https://www.corteva.com"
+		],
+		"ESG Link": "https://www.corteva.com/sustainability.html"
+	},
+	{
+		"Company": "Fidelity National Financial",
+		"Domain": [
+			"https://www.fnf.com"
+		],
+		"ESG Link": "https://www.fnf.com/sustainability"
+	},
+	{
+		"Company": "DTE Energy",
+		"Domain": [
+			"https://www.dteenergy.com"
+		],
+		"ESG Link": "https://empoweringmichigan.com/dte-impact/performance/?_ga=2.89031707.1864535749.1690572239-1825994016.1690572239&_gl=1*1aq149r*_ga*MTgyNTk5NDAxNi4xNjkwNTcyMjM5*_ga_J2R5W9DWE4*MTY5MDU3MjIzOS4xLjAuMTY5MDU3MjI0NS4wLjAuMA.."
+	},
+	{
+		"Company": "Murphy USA",
+		"Domain": [
+			"https://www.murphyusa.com"
+		],
+		"ESG Link": "https://ir.corporate.murphyusa.com/investor-relations/esg-summary/default.aspx"
+	},
+	{
+		"Company": "Halliburton",
+		"Domain": [
+			"https://www.halliburton.com"
+		],
+		"ESG Link": "https://www.halliburton.com/en/sustainability"
+	},
+	{
+		"Company": "Automatic Data Processing",
+		"Domain": [
+			"https://www.adp.com"
+		],
+		"ESG Link": "https://sustainability.adp.com/"
+	},
+	{
+		"Company": "Edison International",
+		"Domain": [
+			"https://www.edisoninvestor.com"
+		],
+		"ESG Link": "https://www.edison.com/sustainability/esg"
+	},
+	{
+		"Company": "BorgWarner",
+		"Domain": [
+			"https://www.borgwarner.com"
+		],
+		"ESG Link": "https://www.borgwarner.com/company/sustainability"
+	},
+	{
+		"Company": "Nordstrom",
+		"Domain": [
+			"https://www.nordstrom.com"
+		],
+		"ESG Link": "https://press.nordstrom.com/nordstrom-cares"
+	},
+	{
+		"Company": "Loews",
+		"Domain": [
+			"https://www.loews.com"
+		],
+		"ESG Link": "https://loews.com/Sustainability"
+	},
+	{
+		"Company": "Guardian Life Ins. Co. of America",
+		"Domain": [
+			"https://www.guardianlife.com"
+		],
+		"ESG Link": "https://www.guardianlife.com/social-responsibility"
+	},
+	{
+		"Company": "Pioneer Natural Resources",
+		"Domain": [
+			"https://www.pxd.com"
+		],
+		"ESG Link": "https://www.pxd.com/sustainability"
+	},
+	{
+		"Company": "AutoZone",
+		"Domain": [
+			"https://www.autozone.com"
+		],
+		"ESG Link": "https://about.autozone.com/about-autozone/esg"
+	},
+	{
+		"Company": "Lam Research",
+		"Domain": [
+			"https://www.lamresearch.com"
+		],
+		"ESG Link": "https://www.lamresearch.com/company/environmental-social-governance/"
+	},
+	{
+		"Company": "American Family Insurance Group",
+		"Domain": [
+			"https://www.amfam.com/"
+		],
+		"ESG Link": "https://www.amfam.com/about/corporate-responsibility"
+	},
+	{
+		"Company": "Illinois Tool Works",
+		"Domain": [
+			"https://www.itw.com/"
+		],
+		"ESG Link": "https://www.itw.com/sustainability/itw-sustainability/"
+	},
+	{
+		"Company": "Parker-Hannifin",
+		"Domain": [
+			"https://www.parker.com/"
+		],
+		"ESG Link": "https://investors.parker.com/corporate-governance/introduction"
+	},
+	{
+		"Company": "Otis Worldwide",
+		"Domain": [
+			"https://www.otis.com/"
+		],
+		"ESG Link": "https://www.otis.com/en/us/our-company/esg"
+	},
+	{
+		"Company": "Omnicom Group",
+		"Domain": [
+			"https://www.omnicomgroup.com/"
+		],
+		"ESG Link": "https://www.omnicomgroup.com/corporate-responsibility/"
+	},
+	{
+		"Company": "Principal Financial",
+		"Domain": [
+			"https://www.principal.com/"
+		],
+		"ESG Link": "https://www.principal.com/sustainability/"
+	},
+	{
+		"Company": "Dominion Energy",
+		"Domain": [
+			"https://www.dominionenergy.com/"
+		],
+		"ESG Link": "https://esg.dominionenergy.com/"
+	},
+	{
+		"Company": "Kellogg's",
+		"Domain": [
+		"https://www.kelloggcompany.com/",
+			"https://www.kelloggs.com/"
+		],
+		"ESG Link": "https://investor.kelloggs.com/environmental-social-governance/esg-homepage/default.aspx"
+	},
+	{
+		"Company": "Fluor",
+		"Domain": [
+			"https://www.fluor.com/"
+		],
+		"ESG Link": "https://www.fluor.com/sustainability"
+	},
+	{
+		"Company": "AECOM",
+		"Domain": [
+			"https://aecom.com/"
+		],
+		"ESG Link": "https://investors.aecom.com/esg"
+	},
+	{
+		"Company": "Reliance Steel & Aluminum",
+		"Domain": [
+			"https://www.rsac.com/"
+		],
+		"ESG Link": "https://www.rsac.com/environmental-social-and-governance/"
+	},
+	{
+		"Company": "Jacobs Engineering Group",
+		"Domain": [
+			"https://www.jacobs.com/"
+		],
+		"ESG Link": "https://invest.jacobs.com/governance/governance-documents-esg-data/default.aspx"
+	},
+	{
+		"Company": "Corning",
+		"Domain": [
+			"https://www.corning.com/"
+		],
+		"ESG Link": "https://www.corning.com/worldwide/en/sustainability.html"
+	},
+	{
+		"Company": "Farmers Insurance Exchange",
+		"Domain": [
+			"https://www.farmers.com/"
+		],
+		"ESG Link": "https://www.farmers.com/corporate-responsibility/"
+	},
+	{
+		"Company": "Qurate Retail",
+		"Domain": [
+			"https://www.qurateretailgroup.com/"
+		],
+		"ESG Link": "https://www.qurateretailgroup.com/lp/corporate-responsibility/"
+	},
+	{
+		"Company": "Pacific Life",
+		"Domain": [
+			"https://www.pacificlife.com/"
+		],
+		"ESG Link": "https://www.pacificlife.com/home/corporate-social-responsibility.html"
+	},
+	{
+		"Company": "PulteGroup",
+		"Domain": [
+			"https://pultegroup.com/"
+		],
+		"ESG Link": "https://pultegroupcares.com/sustainability/"
+	},
+	{
+		"Company": "Fidelity National Information Services",
+		"Domain": [
+			"https://www.fisglobal.com/"
+		],
+		"ESG Link": "https://www.fisglobal.com/en/global-sustainability"
+	},
+	{
+		"Company": "IQVIA Holdings",
+		"Domain": [
+			"https://www.iqvia.com/"
+		],
+		"ESG Link": "https://www.iqvia.com/about-us/esg"
+	},
+	{
+		"Company": "Marriott International",
+		"Domain": [
+			"https://www.marriott.com"
+		],
+		"ESG Link": "https://serve360.marriott.com/"
+	},
+	{
+		"Company": "Berry Global Group",
+		"Domain": [
+			"https://www.berryglobal.com/"
+		],
+		"ESG Link": "https://www.berryglobal.com/en/sustainability"
+	},
+	{
+		"Company": "Ball",
+		"Domain": [
+			"https://www.ball.com/"
+		],
+		"ESG Link": "https://www.ball.com/sustainability"
+	},
+	{
+		"Company": "Group 1 Automotive",
+		"Domain": [
+		"https://www.group1corp.com/",
+			"https://www.group1auto.com/"
+		],
+		"ESG Link": "https://www.group1corp.com/ESG"
+	},
+	{
+		"Company": "Leidos Holdings",
+		"Domain": [
+			"https://www.leidos.com/"
+		],
+		"ESG Link": "https://www.leidos.com/company/responsibility-and-sustainability/esg-goals"
+	},
+	{
+		"Company": "Wayfair",
+		"Domain": [
+			"https://www.wayfair.com/"
+		],
+		"ESG Link": "https://www.aboutwayfair.com/sustainability"
+	},
+	{
+		"Company": "Consolidated Edison",
+		"Domain": [
+			"https://www.coned.com/"
+		],
+		"ESG Link": "https://investor.conedison.com/environmental-social-and-governance-esg-resources"
+	},
+	{
+		"Company": "Ameriprise Financial",
+		"Domain": [
+			"https://www.ameriprise.com/"
+		],
+		"ESG Link": "https://www.ameriprise.com/about/responsible-business"
+	},
+	{
+		"Company": "Xcel Energy",
+		"Domain": [
+			"http://www.xcelenergy.com/"
+		],
+		"ESG Link": "https://my.xcelenergy.com/s/about/report/esg-library"
+	},
+	{
+		"Company": "O'Reilly Automotive",
+		"Domain": [
+			"https://www.oreillyauto.com/"
+		],
+		"ESG Link": "https://www.oreillyauto.com/about-oreilly"
+	},
+	{
+		"Company": "Global Partners",
+		"Domain": [
+			"https://www.globalp.com/"
+		],
+		"ESG Link": "https://www.globalp.com/about/csr/"
+	},
+	{
+		"Company": "Discover Financial Services",
+		"Domain": [
+			"https://www.discover.com/"
+		],
+		"ESG Link": "https://www.discover.com/company/esg/"
+	},
+	{
+		"Company": "Rocket Companies",
+		"Domain": [
+			"https://www.rocketcompanies.com/"
+		],
+		"ESG Link": "https://www.rocketcompanies.com/social-impact/"
+	},
+	{
+		"Company": "LKQ",
+		"Domain": [
+			"https://www.lkqcorp.com/"
+		],
+		"ESG Link": "https://www.lkqcorp.com/corporate-responsibility/"
+	},
+	{
+		"Company": "W.W. Grainger",
+		"Domain": [
+			"https://www.grainger.com/"
+		],
+		"ESG Link": "https://www.graingeresg.com/"
+	},
+	{
+		"Company": "Quanta Services",
+		"Domain": [
+			"https://www.quantaservices.com/"
+		],
+		"ESG Link": "https://www.quantaservices.com/sustainability"
+	},
+	{
+		"Company": "Crown Holdings",
+		"Domain": [
+			"https://www.crowncork.com/"
+		],
+		"ESG Link": "https://www.crowncork.com/sustainability"
+	},
+	{
+		"Company": "Fox",
+		"Domain": [
+			"https://www.fox.com/"
+		],
+		"ESG Link": "https://www.globalp.com/about/csr/"
+	},
+	{
+		"Company": "Sempra",
+		"Domain": [
+			"https://www.sempra.com/"
+		],
+		"ESG Link": "https://www.sempra.com/performance/esg"
+	},
+	{
+		"Company": "Markel",
+		"Domain": [
+			"https://www.markel.com/"
+		],
+		"ESG Link": "https://www.markel.com/about-us/company-responsibility"
+	},
+	{
+		"Company": "Carvana",
+		"Domain": [
+			"https://www.carvana.com/"
+		],
+		"ESG Link": "https://investors.carvana.com/corporate-governance/governance-documents"
+	},
+	{
+		"Company": "XPO Logistics",
+		"Domain": [
+			"https://www.xpo.com/"
+		],
+		"ESG Link": "https://sustainability.xpo.com/"
+	},
+	{
+		"Company": "Baxter International",
+		"Domain": [
+			"https://www.baxter.com/"
+		],
+		"ESG Link": "https://www.baxter.com/our-story/corporate-responsibility-0"
+	},
+	{
+		"Company": "Ecolab",
+		"Domain": [
+			"http://www.ecolab.com"
+		],
+		"ESG Link": "https://www.ecolab.com/corporate-responsibility"
+	},
+	{
+		"Company": "Tractor Supply",
+		"Domain": [
+			"https://www.tractorsupply.com/"
+		],
+		"ESG Link": "https://www.corporate.tractorsupply.com/Stewardship/default.aspx"
+	},
+	{
+		"Company": "Andersons",
+		"Domain": [
+			"https://www.andersonsinc.com/"
+		],
+		"ESG Link": "https://www.andersonsinc.com/sustainability/"
+	},
+	{
+		"Company": "Keurig Dr Pepper",
+		"Domain": [
+			"https://www.keurigdrpepper.com/"
+		],
+		"ESG Link": "https://www.keurigdrpepper.com/en/our-company/corporate-responsibility"
+	},
+	{
+		"Company": "Universal Health Services",
+		"Domain": [
+			"https://uhs.com/"
+		],
+		"ESG Link": "https://uhs.com/about-universal-health-services/environmental-social-and-governance/"
+	},
+	{
+		"Company": "CSX",
+		"Domain": [
+			"http://csx.com/"
+		],
+		"ESG Link": "https://www.csx.com/ESG"
+	},
+	{
+		"Company": "Henry Schein",
+		"Domain": [
+			"https://www.henryschein.com/"
+		],
+		"ESG Link": "https://www.henryschein.com/us-en/corporate/esg-communications.aspx"
+	},
+	{
+		"Company": "Sonic Automotive",
+		"Domain": [
+			"https://www.sonicautomotive.com/"
+		],
+		"ESG Link": "https://ir.sonicautomotive.com/corporate-responsibility"
+	},
+	{
+		"Company": "eBay",
+		"Domain": [
+			"https://www.ebay.com/"
+		],
+		"ESG Link": "https://investors.ebayinc.com/esg-investors/default.aspx"
+	},
+	{
+		"Company": "Textron",
+		"Domain": [
+			"https://www.textron.com/"
+		],
+		"ESG Link": "https://www.textron.com/CorpResponsibility/corporate-responsibility-report"
+	},
+	{
+		"Company": "Jones Financial (Edward Jones)",
+		"Domain": [
+			"https://www.edwardjones.com/"
+		],
+		"ESG Link": "https://www.edwardjones.com/us-en/why-edward-jones/about-us/corporate-citizenship/purpose-in-action"
+	},
+	{
+		"Company": "Community Health Systems",
+		"Domain": [
+			"https://www.chs.net/"
+		],
+		"ESG Link": "https://www.chs.net/company-overview/sustainability/"
+	},
+	{
+		"Company": "Mosaic",
+		"Domain": [
+			"https://mosaicco.com/"
+		],
+		"ESG Link": "https://mosaicco.com/Our-Responsibility"
+	},
+	{
+		"Company": "Thor Industries",
+		"Domain": [
+			"https://www.thorindustries.com/"
+		],
+		"ESG Link": "https://www.thorindustries.com/sustainability"
+	},
+	{
+		"Company": "Dick's Sporting Goods",
+		"Domain": [
+			"https://www.dickssportinggoods.com/"
+		],
+		"ESG Link": "https://investors.dicks.com/esg/default.aspx"
+	},
+	{
+		"Company": "Newmont",
+		"Domain": [
+			"https://www.newmont.com/"
+		],
+		"ESG Link": "https://www.newmont.com/sustainability/default.aspx"
+	},
+	{
+		"Company": "Devon Energy",
+		"Domain": [
+			"https://www.devonenergy.com/"
+		],
+		"ESG Link": "https://www.devonenergy.com/sustainability"
+	},
+	{
+		"Company": "Warner Bros. Discovery",
+		"Domain": [
+			"https://wbd.com/"
+		],
+		"ESG Link": "https://wbd.com/esg/"
+	},
+	{
+		"Company": "J.B. Hunt Transport Services",
+		"Domain": [
+			"https://www.jbhunt.com/"
+		],
+		"ESG Link": "https://www.jbhunt.com/our-company/corporate-responsibility"
+	},
+	{
+		"Company": "Alcoa",
+		"Domain": [
+			"https://www.alcoa.com/"
+		],
+		"ESG Link": "https://www.alcoa.com/sustainability/"
+	},
+	{
+		"Company": "Peter Kiewit Sons'",
+		"Domain": [
+			"https://www.kiewit.com/"
+		],
+		"ESG Link": "https://www.kiewit.com/sustainability/"
+	},
+	{
+		"Company": "Aramark",
+		"Domain": [
+			"https://www.aramark.com/"
+		],
+		"ESG Link": "https://www.aramark.com/environmental-social-governance"
+	},
+	{
+		"Company": "Vistra",
+		"Domain": [
+			"https://vistracorp.com/"
+		],
+		"ESG Link": "https://vistracorp.com/corporate-governance/"
+	},
+	{
+		"Company": "State Street",
+		"Domain": [
+			"https://www.statestreet.com/"
+		],
+		"ESG Link": "https://www.statestreet.com/us/en/asset-manager/about/our-impact/esg-report"
+	},
+	{
+		"Company": "Unum Group",
+		"Domain": [
+			"https://www.unum.com/"
+		],
+		"ESG Link": "https://www.unumgroup.com/esg"
+	},
+	{
+		"Company": "Alleghany",
+		"Domain": [
+			"https://www.alleghany.com/"
+		],
+		"ESG Link": "No Link Found"
+	},
+	{
+		"Company": "Boston Scientific",
+		"Domain": [
+			"https://www.bostonscientific.com/"
+		],
+		"ESG Link": "https://investors.bostonscientific.com/environmental-social-governance"
+	},
+	{
+		"Company": "Westlake",
+		"Domain": [
+			"https://www.westlake.com/"
+		],
+		"ESG Link": "https://westlake.com/environmental-sustainability-and-governance"
+	},
+	{
+		"Company": "Entergy",
+		"Domain": [
+			"https://www.entergy.com/"
+		],
+		"ESG Link": "https://www.entergy.com/sustainability/"
+	},
+	{
+		"Company": "International Flavors & Fragrances",
+		"Domain": [
+			"https://www.iff.com/"
+		],
+		"ESG Link": "http://lmrnaturals.iff.com/en/our-purpose/sustainability"
+	},
+	{
+		"Company": "DaVita",
+		"Domain": [
+			"https://www.davita.com/"
+		],
+		"ESG Link": "https://www.davitacommunitycare.com/esg-reporting-hub"
+	},
+	{
+		"Company": "Mutual of Omaha Insurance",
+		"Domain": [
+			"https://www.mutualofomaha.com/"
+		],
+		"ESG Link": "https://www.mutualofomaha.com/about/environmental-social-governance"
+	},
+	{
+		"Company": "Assurant",
+		"Domain": [
+			"https://www.assurant.com/"
+		],
+		"ESG Link": "https://www.assurant.com/about-us/sustainability"
+	},
+	{
+		"Company": "Liberty Media",
+		"Domain": [
+			"https://www.libertymedia.com/"
+		],
+		"ESG Link": "https://www.libertymedia.com/esg"
+	},
+	{
+		"Company": "Hormel Foods",
+		"Domain": [
+			"https://www.hormelfoods.com/"
+		],
+		"ESG Link": "https://csr.hormelfoods.com/"
+	},
+	{
+		"Company": "Icahn Enterprises",
+		"Domain": [
+			"https://www.ielp.com/"
+		],
+		"ESG Link": "https://www.ielp.com/corporate-governance"
+	},
+	{
+		"Company": "Republic Services",
+		"Domain": [
+			"https://www.republicservices.com/"
+		],
+		"ESG Link": "https://www.republicservices.com/organizational-sustainability"
+	},
+	{
+		"Company": "Mohawk Industries",
+		"Domain": [
+			"https://mohawkind.com/"
+		],
+		"ESG Link": "https://mohawkind.com/corporate-sustainability/"
+	},
+	{
+		"Company": "Conagra Brands",
+		"Domain": [
+			"https://www.conagrabrands.com/"
+		],
+		"ESG Link": "https://www.conagrabrands.com/our-company/corporate-social-responsibility"
+	},
+	{
+		"Company": "Norfolk Southern",
+		"Domain": [
+			"http://www.nscorp.com/"
+		],
+		"ESG Link": "http://www.nscorp.com/content/nscorp/en/about-ns/sustainability.html"
+	},
+	{
+		"Company": "AES",
+		"Domain": [
+			"https://www.aes.com/"
+		],
+		"ESG Link": "https://www.aes.com/sustainability"
+	},
+	{
+		"Company": "AGCO",
+		"Domain": [
+			"https://www.agcocorp.com/"
+		],
+		"ESG Link": "https://www.agcocorp.com/commitment/sustainability.html"
+	},
+	{
+		"Company": "Caesars Entertainment",
+		"Domain": [
+			"https://www.caesars.com/"
+		],
+		"ESG Link": "https://www.caesars.com/corporate-social-responsibility"
+	},
+	{
+		"Company": "Equitable Holdings",
+		"Domain": [
+			"https://equitable.com/"
+		],
+		"ESG Link": "https://equitable.com/about-us/esg-at-equitable"
+	},
+	{
+		"Company": "Advance Auto Parts",
+		"Domain": [
+		"advanceautoparts.com",
+			"https://shop.advanceautoparts.com/"
+		],
+		"ESG Link": "https://esg.advanceauto.us/Home/default.aspx"
+	},
+	{
+		"Company": "Biogen",
+		"Domain": [
+			"https://www.biogen.com/"
+		],
+		"ESG Link": "https://www.biogen.com/responsibility.html"
+	},
+	{
+		"Company": "Auto-Owners Insurance",
+		"Domain": [
+			"http://auto-owners.com/"
+		],
+		"ESG Link": "https://www.auto-owners.com/about/giving-back"
+	},
+	{
+		"Company": "Booking Holdings",
+		"Domain": [
+			"https://www.bookingholdings.com/"
+		],
+		"ESG Link": "https://www.bookingholdings.com/sustainability/"
+	},
+	{
+		"Company": "Amphenol",
+		"Domain": [
+			"https://www.amphenol.com/"
+		],
+		"ESG Link": "https://www.amphenol.com/sustainability"
+	},
+	{
+		"Company": "Quest Diagnostics",
+		"Domain": [
+			"http://www.questdiagnostics.com/"
+		],
+		"ESG Link": "https://www.questdiagnostics.com/our-company/corporate-responsibility/"
+	},
+	{
+		"Company": "FirstEnergy",
+		"Domain": [
+			"https://www.firstenergycorp.com/"
+		],
+		"ESG Link": "https://firstenergycorp.com/investor/corporate_governance/responsibility.html"
+	},
+	{
+		"Company": "DCP Midstream",
+		"Domain": [
+			"https://www.dcpmidstream.com/"
+		],
+		"ESG Link": "https://www.dcpmidstream.com/sustainability"
+	},
+	{
+		"Company": "Ally Financial",
+		"Domain": [
+			"https://www.ally.com/"
+		],
+		"ESG Link": "https://www.ally.com/about/social-impact/"
+	},
+	{
+		"Company": "Delek US Holdings",
+		"Domain": [
+			"https://www.delekus.com/"
+		],
+		"ESG Link": "https://www.delekus.com/social-commitment/"
+	},
+	{
+		"Company": "Williams",
+		"Domain": [
+			"https://www.williams.com/"
+		],
+		"ESG Link": "https://www.williams.com/sustainability/"
+	},
+	{
+		"Company": "Newell Brands",
+		"Domain": [
+			"https://www.newellbrands.com/"
+		],
+		"ESG Link": "https://www.newellbrands.com/corporate-citizenship/"
+	},
+	{
+		"Company": "Eastman Chemical",
+		"Domain": [
+			"https://www.eastman.com/"
+		],
+		"ESG Link": "https://investors.eastman.com/Environmental-Social-Governance/default.aspx"
+	},
+	{
+		"Company": "Air Products & Chemicals",
+		"Domain": [
+			"https://www.airproducts.com/"
+		],
+		"ESG Link": "https://www.airproducts.com/company/sustainability"
+	},
+	{
+		"Company": "Thrivent Financial for Lutherans",
+		"Domain": [
+			"https://www.thrivent.com/"
+		],
+		"ESG Link": "https://www.thrivent.com/governance"
+	},
+	{
+		"Company": "Molson Coors Beverage",
+		"Domain": [
+			"https://www.molsoncoors.com/"
+		],
+		"ESG Link": "https://www.molsoncoors.com/sustainability/sustainability-overview"
+	},
+	{
+		"Company": "Interpublic Group",
+		"Domain": [
+			"https://www.interpublic.com/"
+		],
+		"ESG Link": "https://www.interpublic.com/esg-reports/"
+	},
+	{
+		"Company": "Weyerhaeuser",
+		"Domain": [
+			"https://www.weyerhaeuser.com/"
+		],
+		"ESG Link": "https://www.weyerhaeuser.com/sustainability/"
+	},
+	{
+		"Company": "Altice USA",
+		"Domain": [
+			"https://www.alticeusa.com/"
+		],
+		"ESG Link": "https://www.alticeusa.com/impact"
+	},
+	{
+		"Company": "Raymond James Financial",
+		"Domain": [
+			"https://www.raymondjames.com/"
+		],
+		"ESG Link": "https://www.raymondjames.com/about-us/corporate-responsibility/"
+	},
+	{
+		"Company": "EMCOR Group",
+		"Domain": [
+			"https://www.emcorgroup.com/"
+		],
+		"ESG Link": "https://www.emcorgroup.com/sustainability-efforts"
+	},
+	{
+		"Company": "Eversource Energy",
+		"Domain": [
+			"https://www.eversource.com/content/residential"
+		],
+		"ESG Link": "https://www.eversource.com/content/residential/about/sustainability"
+	},
+	{
+		"Company": "Yum China Holdings",
+		"Domain": [
+		"https://www.yum.com/",
+			"https://ir.yumchina.com/"
+		],
+		"ESG Link": "http://www.yumchina.com/respIndex"
+	},
+	{
+		"Company": "Asbury Automotive Group",
+		"Domain": [
+			"https://www.asburyauto.com/"
+		],
+		"ESG Link": "https://socialresponsibility.asburyauto.com/"
+	},
+	{
+		"Company": "Owens & Minor",
+		"Domain": [
+			"https://www.owens-minor.com/"
+		],
+		"ESG Link": "https://investors.owens-minor.com/esg/"
+	},
+	{
+		"Company": "Public Service Enterprise Group",
+		"Domain": [
+		"https://pseg.com",
+			"https://corporate.pseg.com/"
+		],
+		"ESG Link": "https://corporate.pseg.com/esg"
+	},
+	{
+		"Company": "United Rentals",
+		"Domain": [
+			"https://www.unitedrentals.com/"
+		],
+		"ESG Link": "https://www.unitedrentals.com/our-company/about-us/sustainability"
+	},
+	{
+		"Company": "MGM Resorts International",
+		"Domain": [
+			"https://www.mgmresorts.com/en.html"
+		],
+		"ESG Link": "https://www.mgmresorts.com/en/company/esg.html"
+	},
+	{
+		"Company": "Ryder System",
+		"Domain": [
+			"https://www.ryder.com/"
+		],
+		"ESG Link": "https://investors.ryder.com/sustainability/default.aspx"
+	},
+	{
+		"Company": "Intuit",
+		"Domain": [
+			"https://www.intuit.com/"
+		],
+		"ESG Link": "https://www.intuit.com/company/corporate-responsibility/"
+	},
+	{
+		"Company": "Cincinnati Financial",
+		"Domain": [
+			"https://www.cinfin.com/"
+		],
+		"ESG Link": "https://cincinnatifinancialcorporation.gcs-web.com/sustainability"
+	},
+	{
+		"Company": "Erie Insurance Group",
+		"Domain": [
+			"https://www.erieinsurance.com/"
+		],
+		"ESG Link": "https://www.erieinsurance.com/blog/social-responsibility"
+	},
+	{
+		"Company": "Univar Solutions",
+		"Domain": [
+			"https://www.univarsolutions.com/"
+		],
+		"ESG Link": "https://www.univarsolutions.com/sustainability"
+	},
+	{
+		"Company": "Huntington Ingalls Industries",
+		"Domain": [
+			"https://hii.com/"
+		],
+		"ESG Link": "https://hii.com/who-we-are/sustainability/"
+	},
+	{
+		"Company": "W.R. Berkley",
+		"Domain": [
+			"https://www.berkley.com/"
+		],
+		"ESG Link": "No Link Found"
+	},
+	{
+		"Company": "Western & Southern Financial Group",
+		"Domain": [
+			"https://www.westernsouthern.com/"
+		],
+		"ESG Link": "https://www.westernsouthern.com/about/corporate-responsibility/"
+	},
+	{
+		"Company": "Insight Enterprises",
+		"Domain": [
+			"https://www.insight.com/"
+		],
+		"ESG Link": "https://www.insight.com/en_US/about/outreach-and-partnerships.html"
+	},
+	{
+		"Company": "News Corp.",
+		"Domain": [
+			"https://newscorp.com/"
+		],
+		"ESG Link": "https://newscorp.com/news-corp-esg-report/"
+	},
+	{
+		"Company": "American Tower",
+		"Domain": [
+			"https://americantower.com/"
+		],
+		"ESG Link": "https://www.americantower.com/sustainability/index.html"
+	},
+	{
+		"Company": "Old Republic International",
+		"Domain": [
+			"https://www.oldrepublic.com/"
+		],
+		"ESG Link": "https://ir.oldrepublic.com/governance/governance-documents/default.aspx"
+	},
+	{
+		"Company": "Burlington Stores",
+		"Domain": [
+			"https://www.burlington.com/"
+		],
+		"ESG Link": "https://www.burlingtoninvestors.com/corporate-social-responsibility/"
+	},
+	{
+		"Company": "Avis Budget Group",
+		"Domain": [
+			"https://avisbudgetgroup.com/"
+		],
+		"ESG Link": "https://avisbudgetgroup.com/csr/"
+	},
+	{
+		"Company": "ODP",
+		"Domain": [
+			"https://www.officedepot.com"
+		],
+		"ESG Link": "https://www.theodpcorp.com/corporate-sustainability?cm_sp=FooterLink-_-corporate-sustainabilty"
+	},
+	{
+		"Company": "VF Corp.",
+		"Domain": [
+			"https://www.vfc.com"
+		],
+		"ESG Link": "https://www.vfc.com/responsibility"
+	},
+	{
+		"Company": "Bed Bath & Beyond",
+		"Domain": [
+			"https://www.bedbathandbeyond.com"
+		],
+		"ESG Link": "https://www.bedbathandbeyond.com/esg"
+	},
+	{
+		"Company": "Seaboard",
+		"Domain": [
+			"https://www.seaboardcorp.com"
+		],
+		"ESG Link": "No Link Found"
+	},
+	{
+		"Company": "First American Financial",
+		"Domain": [
+			"https://www.firstam.com"
+		],
+		"ESG Link": "https://www.firstam.com/sustainability/index.html"
+	},
+	{
+		"Company": "Intercontinental Exchange",
+		"Domain": [
+			"https://www.ice.com"
+		],
+		"ESG Link": "https://www.ice.com/about/corporate-responsibility"
+	},
+	{
+		"Company": "PVH",
+		"Domain": [
+			"https://www.pvh.com"
+		],
+		"ESG Link": "https://pvh.com/responsibility"
+	},
+	{
+		"Company": "Apollo Global Management",
+		"Domain": [
+			"https://www.apollo.com"
+		],
+		"ESG Link": "https://www.apollo.com/esg-corporate-social-responsibility"
+	},
+	{
+		"Company": "Jefferies Financial Group",
+		"Domain": [
+			"https://www.jefferies.com"
+		],
+		"ESG Link": "https://www.jefferies.com/ESG/ESG/ESG/2796"
+	},
+	{
+		"Company": "Hershey",
+		"Domain": [
+			"https://www.thehersheycompany.com"
+		],
+		"ESG Link": "https://investors.thehersheycompany.com/en_us/home/environmental-social-and-governance.html"
+	},
+	{
+		"Company": "NVR",
+		"Domain": [
+			"https://www.nvrinc.com"
+		],
+		"ESG Link": "https://nvri.gcs-web.com/corporate-governance/highlights"
+	},
+	{
+		"Company": "Foot Locker",
+		"Domain": [
+			"https://www.footlocker.com/"
+		],
+		"ESG Link": "https://investors.footlocker-inc.com/impactreport"
+	},
+	{
+		"Company": "Dana",
+		"Domain": [
+			"https://www.dana.com"
+		],
+		"ESG Link": "https://www.danainvestment.com/our-responsibilities/"
+	},
+	{
+		"Company": "SpartanNash",
+		"Domain": [
+			"https://www.spartannash.com"
+		],
+		"ESG Link": "https://www.spartannash.com/corp-responsibility/"
+	},
+	{
+		"Company": "Olin",
+		"Domain": [
+			"https://www.olin.com"
+		],
+		"ESG Link": "https://olin.com/corporate-responsibility/"
+	},
+	{
+		"Company": "Chewy",
+		"Domain": [
+			"https://www.chewy.com"
+		],
+		"ESG Link": "https://investor.chewy.com/governance/documents/default.aspx"
+	},
+	{
+		"Company": "Jackson Financial",
+		"Domain": [
+			"https://www.jackson.com"
+		],
+		"ESG Link": "https://www.jackson.com/the-jackson-difference/environmental-social-governance.html"
+	},
+	{
+		"Company": "Activision Blizzard",
+		"Domain": [
+			"https://www.activisionblizzard.com"
+		],
+		"ESG Link": "https://ourcommitments.activisionblizzard.com/esgreports"
+	},
+	{
+		"Company": "Toll Brothers",
+		"Domain": [
+			"https://www.tollbrothers.com"
+		],
+		"ESG Link": "https://www.tollbrothers.com/esg"
+	},
+	{
+		"Company": "Carlyle Group",
+		"Domain": [
+			"https://www.carlyle.com"
+		],
+		"ESG Link": "https://www.carlyle.com/esg"
+	},
+	{
+		"Company": "Graybar Electric",
+		"Domain": [
+			"https://www.graybar.com"
+		],
+		"ESG Link": "https://www.graybar.com/about-us"
+	},
+	{
+		"Company": "Ovintiv",
+		"Domain": [
+			"https://www.ovintiv.com"
+		],
+		"ESG Link": "https://sustainability.ovintiv.com/"
+	},
+	{
+		"Company": "UFP Industries",
+		"Domain": [
+			"https://www.ufpi.com"
+		],
+		"ESG Link": "https://www.ufpi.com/sustainability"
+	},
+	{
+		"Company": "Ulta Beauty",
+		"Domain": [
+			"https://www.ulta.com"
+		],
+		"ESG Link": "https://www.ulta.com/investor/esg"
+	},
+	{
+		"Company": "Constellation Brands",
+		"Domain": [
+			"https://www.cbrands.com"
+		],
+		"ESG Link": "https://www.cbrands.com/pages/responsibility"
+	},
+	{
+		"Company": "Expedia Group",
+		"Domain": [
+		"https://www.expedia.com/",
+			"https://www.expediagroup.com"
+		],
+		"ESG Link": "https://www.expediagroup.com/who-we-are/Impact--Sustainability/default.aspx"
+	},
+	{
+		"Company": "CommScope Holding",
+		"Domain": [
+			"https://www.commscope.com"
+		],
+		"ESG Link": "https://www.commscope.com/Corporate-Responsibility-and-Sustainability"
+	},
+	{
+		"Company": "Celanese",
+		"Domain": [
+			"https://www.celanese.com"
+		],
+		"ESG Link": "https://sustainability.celanese.com/"
+	},
+	{
+		"Company": "Global Payments",
+		"Domain": [
+			"https://www.globalpayments.com"
+		],
+		"ESG Link": "https://investors.globalpayments.com/esg"
+	},
+	{
+		"Company": "Owens Corning",
+		"Domain": [
+			"https://www.owenscorning.com"
+		],
+		"ESG Link": "https://www.owenscorning.com/en-us/corporate/sustainability"
+	},
+	{
+		"Company": "Campbell Soup",
+		"Domain": [
+		"https://www.campbells.com/",
+			"https://www.campbellsoupcompany.com"
+		],
+		"ESG Link": "https://www.campbellsoupcompany.com/our-impact/"
+	},
+	{
+		"Company": "Huntsman",
+		"Domain": [
+			"https://www.huntsman.com"
+		],
+		"ESG Link": "https://www.huntsman.com/sustainability"
+	},
+	{
+		"Company": "Franklin Resources",
+		"Domain": [
+			"https://www.franklinresources.com"
+		],
+		"ESG Link": "https://www.franklinresources.com/about-us/citizenship"
+	},
+	{
+		"Company": "Avery Dennison",
+		"Domain": [
+			"https://www.averydennison.com"
+		],
+		"ESG Link": "https://esg.averydennison.com/en/home.html"
+	},
+	{
+		"Company": "Masco",
+		"Domain": [
+			"https://www.masco.com"
+		],
+		"ESG Link": "https://masco.com/sustainability/"
+	},
+	{
+		"Company": "CenterPoint Energy",
+		"Domain": [
+			"https://www.centerpointenergy.com"
+		],
+		"ESG Link": "https://sustainability.centerpointenergy.com/"
+	},
+	{
+		"Company": "Fifth Third Bancorp",
+		"Domain": [
+			"https://www.53.com"
+		],
+		"ESG Link": "https://ir.53.com/esg/overview/default.aspx"
+	},
+	{
+		"Company": "WEC Energy Group",
+		"Domain": [
+			"https://www.wecenergygroup.com"
+		],
+		"ESG Link": "http://www.wecenergygroup.com/csr/index.htm"
+	},
+	{
+		"Company": "S&P Global",
+		"Domain": [
+			"https://www.spglobal.com"
+		],
+		"ESG Link": "https://www.spglobal.com/en/who-we-are/corporate-responsibility/"
+	},
+	{
+		"Company": "FM Global",
+		"Domain": [
+			"https://www.fmglobal.com"
+		],
+		"ESG Link": "https://www.fmglobal.com/about-us/our-business/corporate-responsibility"
+	},
+	{
+		"Company": "Polaris",
+		"Domain": [
+			"https://www.polaris.com"
+		],
+		"ESG Link": "https://www.polaris.com/en-us/corporate-responsibility/"
+	},
+	{
+		"Company": "Williams-Sonoma",
+		"Domain": [
+			"https://www.williams-sonomainc.com"
+		],
+		"ESG Link": "https://sustainability.williams-sonomainc.com/"
+	},
+	{
+		"Company": "Autoliv",
+		"Domain": [
+			"https://www.autoliv.com"
+		],
+		"ESG Link": "https://www.autoliv.com/sustainability"
+	},
+	{
+		"Company": "Arthur J. Gallagher",
+		"Domain": [
+			"https://www.ajg.com"
+		],
+		"ESG Link": "https://investor.ajg.com/esg/default.aspx"
+	},
+	{
+		"Company": "Motorola Solutions",
+		"Domain": [
+			"https://www.motorolasolutions.com"
+		],
+		"ESG Link": "https://www.motorolasolutions.com/en_us/about/environmental-social-corporate-governance-esg.html"
+	},
+	{
+		"Company": "Zillow Group",
+		"Domain": [
+		"https://zillow.com",
+			"https://www.zillowgroup.com"
+		],
+		"ESG Link": "https://www.zillowgroup.com/sustainability/"
+	},
+	{
+		"Company": "Opendoor Technologies",
+		"Domain": [
+			"https://www.opendoor.com"
+		],
+		"ESG Link": "https://investor.opendoor.com/corporate-governance/documents-charters"
+	},
+	{
+		"Company": "J.M. Smucker",
+		"Domain": [
+			"https://www.jmsmucker.com"
+		],
+		"ESG Link": "https://www.jmsmucker.com/our-impact"
+	},
+	{
+		"Company": "Anywhere Real Estate",
+		"Domain": [
+			"https://www.realogy.com"
+		],
+		"ESG Link": "https://www.anywhere.re/commitments"
+	},
+	{
+		"Company": "Oshkosh",
+		"Domain": [
+			"https://www.oshkoshcorp.com"
+		],
+		"ESG Link": "https://www.oshkoshcorp.com/impact"
+	},
+	{
+		"Company": "MasTec",
+		"Domain": [
+			"https://www.mastec.com"
+		],
+		"ESG Link": "https://www.mastec.com/sustainability/"
+	},
+	{
+		"Company": "GXO Logistics",
+		"Domain": [
+			"https://www.gxo.com"
+		],
+		"ESG Link": "https://gxo.com/esg/"
+	},
+	{
+		"Company": "APA",
+		"Domain": [
+			"https://www.apacorp.com"
+		],
+		"ESG Link": "https://apacorp.com/sustainability/"
+	},
+	{
+		"Company": "Boise Cascade",
+		"Domain": [
+			"https://www.bc.com"
+		],
+		"ESG Link": "https://www.bc.com/sustainability/"
+	},
+	{
+		"Company": "Dover",
+		"Domain": [
+			"https://www.dovercorporation.com"
+		],
+		"ESG Link": "https://www.dovercorporation.com/sustainability/overview"
+	},
+	{
+		"Company": "Genworth Financial",
+		"Domain": [
+			"https://www.genworth.com"
+		],
+		"ESG Link": "https://investor.genworth.com/esg"
+	},
+	{
+		"Company": "Bath & Body Works",
+		"Domain": [
+			"https://www.bbwinc.com"
+		],
+		"ESG Link": "https://www.bbwinc.com/about-us/esg/"
+	},
+	{
+		"Company": "Booz Allen Hamilton Holding",
+		"Domain": [
+			"https://www.boozallen.com"
+		],
+		"ESG Link": "https://www.boozallen.com/about/environmental-social-governance-report.html"
+	},
+	{
+		"Company": "Coinbase Global",
+		"Domain": [
+			"https://www.coinbase.com"
+		],
+		"ESG Link": "https://investor.coinbase.com/governance/governance-documents/default.aspx"
+	},
+	{
+		"Company": "Zimmer Biomet Holdings",
+		"Domain": [
+			"https://www.zimmerbiomet.com"
+		],
+		"ESG Link": "https://www.zimmerbiomet.com/en/about-us/our-impact.html"
+	},
+	{
+		"Company": "Westinghouse Air Brake Technologies",
+		"Domain": [
+			"https://www.wabteccorp.com"
+		],
+		"ESG Link": "https://www.wabteccorp.com/sustainability"
+	},
+	{
+		"Company": "Zoetis",
+		"Domain": [
+			"https://www.zoetis.com"
+		],
+		"ESG Link": "https://www.zoetis.com/our-company/corporate-sustainability/our-journey-toward-a-better-world"
+	},
+	{
+		"Company": "Packaging Corp. of America",
+		"Domain": [
+			"https://www.packagingcorp.com"
+		],
+		"ESG Link": "https://www.packagingcorp.com/sustainability/"
+	},
+	{
+		"Company": "LPL Financial Holdings",
+		"Domain": [
+			"https://www.lpl.com"
+		],
+		"ESG Link": "https://www.lpl.com/about-Us/social-responsibility/lpl-financial-corporate-sustainability-report.html"
+	},
+	{
+		"Company": "T. Rowe Price",
+		"Domain": [
+			"https://www.troweprice.com"
+		],
+		"ESG Link": "https://www.troweprice.com/corporate/us/en/what-we-do/esg-approach.html"
+	},
+	{
+		"Company": "Fortune Brands Home & Security",
+		"Domain": [
+			"https://www.fbhs.com"
+		],
+		"ESG Link": "https://www.fbin.com/corporate-responsibility/"
+	},
+	{
+		"Company": "Casey's General Stores",
+		"Domain": [
+			"https://www.caseys.com"
+		],
+		"ESG Link": "https://investor.caseys.com/sustainability/default.aspx"
+	},
+	{
+		"Company": "A-Mark Precious Metals",
+		"Domain": [
+			"https://www.amark.com"
+		],
+		"ESG Link": "https://www.amark.com/esg/"
+	},
+	{
+		"Company": "Hess",
+		"Domain": [
+			"https://www.hess.com"
+		],
+		"ESG Link": "https://www.hess.com/sustainability"
+	},
+	{
+		"Company": "Vertex Pharmaceuticals",
+		"Domain": [
+			"https://www.vrtx.com"
+		],
+		"ESG Link": "https://www.vrtx.com/responsibility/"
+	},
+	{
+		"Company": "KeyCorp",
+		"Domain": [
+			"https://www.key.com"
+		],
+		"ESG Link": "https://www.key.com/about/corporate-responsibility/cr-overview.html"
+	},
+	{
+		"Company": "Chipotle",
+		"Domain": [
+			"https://www.chipotle.com"
+		],
+		"ESG Link": "https://www.chipotle.com/about-us/sustainability"
+	},
+	{
+		"Company": "CMS Energy",
+		"Domain": [
+			"https://www.cmsenergy.com"
+		],
+		"ESG Link": "https://www.cmsenergy.com/sustainability/default.aspx"
+	},
+	{
+		"Company": "Arconic",
+		"Domain": [
+			"https://www.arconic.com"
+		],
+		"ESG Link": "https://www.arconic.com/esg/"
+	},
+	{
+		"Company": "Taylor Morrison Home",
+		"Domain": [
+			"https://www.taylormorrison.com"
+		],
+		"ESG Link": "https://investors.taylormorrison.com/esg/default.aspx"
+	},
+	{
+		"Company": "American Financial Group",
+		"Domain": [
+			"https://www.afginc.com"
+		],
+		"ESG Link": "https://www.afginc.com/about-us/corporate-social-responsibility"
+	},
+	{
+		"Company": "UGI",
+		"Domain": [
+			"https://www.ugicorp.com"
+		],
+		"ESG Link": "https://ugiesg.com/"
+	},
+	{
+		"Company": "Science Applications International",
+		"Domain": [
+			"https://www.saic.com"
+		],
+		"ESG Link": "https://www.saic.com/who-we-are/about-saic/corporate-responsibility"
+	},
+	{
+		"Company": "Avantor",
+		"Domain": [
+			"https://www.avantorsciences.com"
+		],
+		"ESG Link": "https://www.avantorsciences.com/pages/en/sustainability"
+	},
+	{
+		"Company": "Hanesbrands",
+		"Domain": [
+			"https://www.hanes.com"
+		],
+		"ESG Link": "https://hbisustains.com/"
+	},
+	{
+		"Company": "Clorox",
+		"Domain": [
+			"https://www.thecloroxcompany.com"
+		],
+		"ESG Link": "https://www.thecloroxcompany.com/responsibility/"
+	},
+	{
+		"Company": "KBR",
+		"Domain": [
+			"https://www.kbr.com"
+		],
+		"ESG Link": "https://www.kbr.com/en/who-we-are/zero-harm"
+	},
+	{
+		"Company": "TravelCenters of America",
+		"Domain": [
+			"https://www.ta-petro.com"
+		],
+		"ESG Link": "https://www.bp.com/en/global/corporate/investors/esg.html"
+	},
+	{
+		"Company": "Hertz Global Holdings",
+		"Domain": [
+			"https://www.hertz.com"
+		],
+		"ESG Link": "https://www.hertz.com/rentacar/misc/index.jsp?targetPage=Hertz_Sustainability.jsp"
+	},
+	{
+		"Company": "Analog Devices",
+		"Domain": [
+			"https://www.analog.com"
+		],
+		"ESG Link": "https://www.analog.com/en/company/environment-social-governance.html"
+	},
+	{
+		"Company": "Securian Financial Group",
+		"Domain": [
+			"https://www.securian.com"
+		],
+		"ESG Link": "https://www.securian.com/about-us/sustainability.html"
+	},
+	{
+		"Company": "Darden Restaurants",
+		"Domain": [
+			"https://www.darden.com"
+		],
+		"ESG Link": "https://www.darden.com/our-impact"
+	},
+	{
+		"Company": "NCR",
+		"Domain": [
+			"https://www.ncr.com"
+		],
+		"ESG Link": "https://www.ncr.com/about/esg"
+	},
+	{
+		"Company": "Graphic Packaging Holding",
+		"Domain": [
+			"https://www.graphicpkg.com"
+		],
+		"ESG Link": "https://investors.graphicpkg.com/esg/default.aspx"
+	},
+	{
+		"Company": "Brighthouse Financial",
+		"Domain": [
+			"https://www.brighthousefinancial.com"
+		],
+		"ESG Link": "https://www.brighthousefinancial.com/about-us/corporate-responsibility/"
+	},
+	{
+		"Company": "PPL",
+		"Domain": [
+			"https://www.pplweb.com"
+		],
+		"ESG Link": "https://www.pplweb.com/sustainability/"
+	},
+	{
+		"Company": "Cintas",
+		"Domain": [
+			"https://www.cintas.com"
+		],
+		"ESG Link": "https://www.cintas.com/company/esg/"
+	},
+	{
+		"Company": "Xerox Holdings",
+		"Domain": [
+			"https://www.xerox.com"
+		],
+		"ESG Link": "https://www.xerox.com/en-us/about/corporate-social-responsibility"
+	},
+	{
+		"Company": "Rockwell Automation",
+		"Domain": [
+			"https://www.rockwellautomation.com"
+		],
+		"ESG Link": "https://www.rockwellautomation.com/en-us/company/about-us/sustainability.html"
+	},
+	{
+		"Company": "Citizens Financial Group",
+		"Domain": [
+			"https://www.citizensbank.com"
+		],
+		"ESG Link": "https://www.citizensbank.com/community/corporate-responsibility.aspx"
+	},
+	{
+		"Company": "KLA",
+		"Domain": [
+			"https://www.kla.com"
+		],
+		"ESG Link": "https://www.kla.com/company/environmental-social-governance"
+	},
+	{
+		"Company": "Camping World Holdings",
+		"Domain": [
+			"https://www.campingworld.com"
+		],
+		"ESG Link": "https://investor.campingworld.com/governance/default.aspx"
+	},
+	{
+		"Company": "Ingredion",
+		"Domain": [
+			"https://www.ingredion.com"
+		],
+		"ESG Link": "https://www.ingredion.com/na/en-us/company/meet-ingredion/sustainability.html"
+	},
+	{
+		"Company": "Veritiv",
+		"Domain": [
+			"https://www.veritivcorp.com"
+		],
+		"ESG Link": "https://www.veritiv.com/sustainability"
+	},
+	{
+		"Company": "Beacon Roofing Supply",
+		"Domain": [
+			"https://www.becn.com"
+		],
+		"ESG Link": "https://www.becn.com/2022-csr-report"
+	},
+	{
+		"Company": "Diamondback Energy",
+		"Domain": [
+			"https://www.diamondbackenergy.com"
+		],
+		"ESG Link": "https://www.diamondbackenergy.com/about/sustainability"
+	},
+	{
+		"Company": "Victoria's Secret",
+		"Domain": [
+			"https://www.victoriassecretandco.com"
+		],
+		"ESG Link": "https://victoriassecret.gcs-web.com/corporate-responsibility/overview"
+	},
+	{
+		"Company": "Academy Sports and Outdoors",
+		"Domain": [
+			"https://www.academy.com"
+		],
+		"ESG Link": "http://corporate.academy.com/esg/index.html"
+	},
+	{
+		"Company": "Sanmina",
+		"Domain": [
+			"https://www.sanmina.com"
+		],
+		"ESG Link": "https://www.sanmina.com/social-responsibility/"
+	},
+	{
+		"Company": "ON Semiconductor",
+		"Domain": [
+			"https://www.onsemi.com"
+		],
+		"ESG Link": "https://www.onsemi.com/company/environmental-social-and-governance"
+	},
+	{
+		"Company": "Commercial Metals",
+		"Domain": [
+			"https://www.cmc.com"
+		],
+		"ESG Link": "https://esg.cmc.com/"
+	},
+	{
+		"Company": "EnLink Midstream",
+		"Domain": [
+			"https://www.enlink.com"
+		],
+		"ESG Link": "https://www.enlink.com/sustainability/"
+	},
+	{
+		"Company": "Southwestern Energy",
+		"Domain": [
+			"https://www.swn.com"
+		],
+		"ESG Link": "https://swncrreport.com/"
+	},
+	{
+		"Company": "Equinix",
+		"Domain": [
+			"https://www.equinix.com"
+		],
+		"ESG Link": "https://investor.equinix.com/esg"
+	},
+	{
+		"Company": "Dillard's",
+		"Domain": [
+			"https://www.dillards.com"
+		],
+		"ESG Link": "https://investor.dillards.com/corporate-governance/governance-documents/default.aspx"
+	},
+	{
+		"Company": "Regions Financial",
+		"Domain": [
+			"https://www.regions.com"
+		],
+		"ESG Link": "https://www.regions.com/about-regions/environmental-social-and-governance"
+	},
+	{
+		"Company": "Yum Brands",
+		"Domain": [
+			"https://www.yum.com"
+		],
+		"ESG Link": "https://www.yum.com/wps/portal/yumbrands/Yumbrands/citizenship-and-sustainability"
+	},
+	{
+		"Company": "Landstar System",
+		"Domain": [
+			"https://www.landstar.com"
+		],
+		"ESG Link": "https://www.landstar.com/corporate-information/corporate-responsibility/"
+	},
+	{
+		"Company": "CF Industries Holdings",
+		"Domain": [
+			"https://www.cfindustries.com"
+		],
+		"ESG Link": "https://www.cfindustries.com/sustainability"
+	},
+	{
+		"Company": "Northern Trust",
+		"Domain": [
+			"https://www.northerntrust.com"
+		],
+		"ESG Link": "https://www.northerntrust.com/united-states/about-us/corporate-social-responsibility"
+	},
+	{
+		"Company": "Robert Half International",
+		"Domain": [
+			"https://www.roberthalf.com"
+		],
+		"ESG Link": "https://www.roberthalf.com/us/en/about/corporate-responsibility"
+	},
+	{
+		"Company": "Compass",
+		"Domain": [
+			"https://www.compass.com"
+		],
+		"ESG Link": "https://www.compass-group.com/en/sustainability.html"
+	},
+	{
+		"Company": "Hasbro",
+		"Domain": [
+			"https://www.hasbro.com"
+		],
+		"ESG Link": "https://csr.hasbro.com/en-us"
+	},
+	{
+		"Company": "Roper Technologies",
+		"Domain": [
+			"https://www.ropertech.com"
+		],
+		"ESG Link": "https://www.ropertech.com/governance/"
+	},
+	{
+		"Company": "ARKO",
+		"Domain": [
+			"https://www.arkocorp.com"
+		],
+		"ESG Link": "https://www.arkocorp.com/company-information/responsibility"
+	},
+	{
+		"Company": "Frontier Communications",
+		"Domain": [
+			"https://www.frontier.com"
+		],
+		"ESG Link": "https://newsroom.frontier.com/responsibility/"
+	},
+	{
+		"Company": "Ameren",
+		"Domain": [
+			"https://www.ameren.com"
+		],
+		"ESG Link": "https://www.ameren.com/sustainability"
+	},
+	{
+		"Company": "O-I Glass",
+		"Domain": [
+			"https://www.o-i.com"
+		],
+		"ESG Link": "https://www.o-i.com/sustainability/"
+	}
+]
